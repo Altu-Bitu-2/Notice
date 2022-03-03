@@ -17,7 +17,7 @@ SW학부 원스탑 튜터링에서 진행하는 코딩 테스트 대비 알고�
 ### 🌙 초급
 |    날짜    | 주제 | 담당 튜터 | 강의 자료 | 문제 |
 |:----------:|:----:|:---------:|:---------:|:----:|
-| 2022.03.03 |  OT  |     -     |[바로가기](https://github.com/Altu-Bitu-2/Notice)|-|
+| 2022.03.03 |  OT  |     -     |[바로가기](https://github.com/Altu-Bitu-2/Notice/blob/main/00.%20%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C/00.%20OT.pdf)|-|
 | 2022.03.04 |정렬|[@bsa0322](https://github.com/bsa0322)|[바로가기](https://github.com/Altu-Bitu-2/Notice)|[바로가기](https://github.com/Altu-Bitu-2/Notice)|
 | 2022.03.08 |맵과 셋|[@bsa0322](https://github.com/bsa0322)|[바로가기](https://github.com/Altu-Bitu-2/Notice)|[바로가기](https://github.com/Altu-Bitu-2/Notice)|
 | 2022.03.11 |스택, 큐, 덱|[@bsa0322](https://github.com/bsa0322)|[바로가기](https://github.com/Altu-Bitu-2/Notice)|[바로가기](https://github.com/Altu-Bitu-2/Notice)|
