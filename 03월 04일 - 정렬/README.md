@@ -34,3 +34,10 @@
 |<a href="https://www.acmicpc.net/problem/1431" target="_blank">1431</a>|<a href="https://www.acmicpc.net/problem/1431" target="_blank">시리얼 번호</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[바로가기]()|정렬|
 |<a href="https://www.acmicpc.net/problem/1946" target="_blank">1946</a>|<a href="https://www.acmicpc.net/problem/1946" target="_blank">신입 사원</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>|[바로가기]()|정렬, 그리디|
 |<a href="https://www.acmicpc.net/problem/1026" target="_blank">1026</a>|<a href="https://www.acmicpc.net/problem/1026" target="_blank">보물</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|[바로가기]()|정렬, 그리디|
+
+---
+
+### 파이썬 보충 설명
+
+🔗 [링크](https://diamond-drum-0d1.notion.site/7b889a419edc4a93b55986ca93877e2f)
+
