@@ -9,8 +9,8 @@
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
 |<a href="https://www.acmicpc.net/problem/2750" target="_blank">2750</a>|<a href="https://www.acmicpc.net/problem/2750" target="_blank">수 정렬하기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/>|[바로가기]()|정렬|
-|<a href="https://www.acmicpc.net/problem/2751" target="_blank">2751</a>|<a href="https://www.acmicpc.net/problem/2751" target="_blank">수 정렬하기 2</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/>|[바로가기]()|정렬|
-|<a href="https://www.acmicpc.net/problem/10825" target="_blank">10825</a>|<a href="https://www.acmicpc.net/problem/10825" target="_blank">국영수</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/>|[바로가기]()|정렬|
+|<a href="https://www.acmicpc.net/problem/2751" target="_blank">2751</a>|<a href="https://www.acmicpc.net/problem/2751" target="_blank">수 정렬하기 2</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>|[바로가기]()|정렬|
+|<a href="https://www.acmicpc.net/problem/10825" target="_blank">10825</a>|<a href="https://www.acmicpc.net/problem/10825" target="_blank">국영수</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|[바로가기]()|정렬|
 
 
 ## ✏️ 과제
