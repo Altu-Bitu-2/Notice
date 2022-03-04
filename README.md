@@ -55,15 +55,26 @@ ex) 3월 4일 튜터링 → 3월 10일 오후 12시까지 과제 업로드
 3번 미수행 시 튜터링 제외❗
 
 ### ♟️ 코드 작성
-
+### c++
 - 변수 : 스네이크 표기법
 - 함수 : 카멜 표기법
-- 상수 : 대문자
+- 상수 : 대문자와 언더스코어
 
 ```cpp
 int hello_world; //변수
 int helloWorld() //함수
 const int HELLO_WORLD //상수
+```
+### python3
+- 인덴테이션은 공백 4칸 (or tab)
+‼ 공백 2칸이 아니라 4칸으로 작성해주세요.
+- 변수 및 함수 이름 : 스네이크 표기법
+- global 상수: 대문자와 언더스코어 
+
+```py
+variable_name #변수
+function_name #함수
+CONSTANT_VALUE #global 상수
 ```
 
 ### ⚡ 클린 코드 작성법
