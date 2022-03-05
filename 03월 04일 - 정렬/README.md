@@ -41,6 +41,59 @@
 
 ---
 
+### 힌트
+
+<details>
+<summary>카드 역배치</summary>
+<div markdown="1">
+&nbsp;&nbsp;&nbsp;&nbsp;카드는 20개로 한정되어 있으니 시간초과 날 걱정은 없어 보여요. 문제에서 하란 대로 해볼까요! 카드를 역순으로 바꾸는 건 어떻게 할 수 있을까요? 튜터링 때 배운 걸 활용해 볼 수 있어요!
+</div>
+</details>
+
+<details>
+<summary>창용이의 시계</summary>
+<div markdown="1">
+&nbsp;&nbsp;&nbsp;&nbsp;우선 시계를 앞으로 돌리면 시간이 증가하고, 뒤로 돌리면 시간이 감소한다는 걸 파악했다면 그대로 구현하면 될 것 같아요. 그런데 한 없이 시간이 뒤로 간다면 어떻게 될까요..? 그리고 시간 계산은 단위를 통일하는 게 좋아보여요.
+</div>
+</details>
+
+<details>
+<summary>좌표 정렬하기2</summary>
+<div markdown="1">
+&nbsp;&nbsp;&nbsp;&nbsp;튜터링 때 다룬 응용문제에서 배운 부분을 활용해 볼 수 있겠어요!
+</div>
+</details>
+
+<details>
+<summary>알바생 강호</summary>
+<div markdown="1">
+&nbsp;&nbsp;&nbsp;&nbsp;강호가 팁을 가장 많이 받을 수 있는 배치는 어떻게 될까요? 1등 사람의 팁이 적어야 좋을지 많아야 좋을지를 생각해 봅시다!
+</div>
+</details>
+
+<details>
+<summary>시리얼 번호</summary>
+<div markdown="1">
+&nbsp;&nbsp;&nbsp;&nbsp;우선 문제에서 원하는 조건대로 정렬을 하는 문제이니, 비교함수를 활용해야할 것 같아요. 그런데 문자열을 다루는 게 조금 까다로워 보이네요! 문자를 숫자로, 숫자를 문자로 어떻게 다룰 수 있을까요? 아스키코드에 대해 알아봅시다.
+</div>
+</details>
+
+<details>
+<summary>신입 사원</summary>
+<div markdown="1">
+&nbsp;&nbsp;&nbsp;&nbsp;서류심사와 면접심사의 성적을 모두 고려해 동시에 비교하려니 힘드네요. 하나의 심사 순위만 비교하려면 어떻게 해야 할까요?
+</div>
+</details>
+
+<details>
+<summary>보물</summary>
+<div markdown="1">
+&nbsp;&nbsp;&nbsp;&nbsp;문제에 함정이 있어요. B는 재배열 할 수 없지만 A는 재배열이 가능하죠!
+</div>
+</details>
+
+---
+
 ### 파이썬 보충 설명
 
 🔗 [링크](https://diamond-drum-0d1.notion.site/7b889a419edc4a93b55986ca93877e2f)
