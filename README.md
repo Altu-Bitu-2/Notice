@@ -40,6 +40,8 @@ SW학부 원스탑 튜터링에서 진행하는 코딩 테스트 대비 알고�
 | 2022.05.24 |유니온 파인드|[@ZERO-black](https://github.com/ZERO-black)|[바로가기](https://github.com/Altu-Bitu-2/Notice)|[바로가기](https://github.com/Altu-Bitu-2/Notice)|
 | 2022.05.31 |최소 신장 트리|[@ZERO-black](https://github.com/ZERO-black)|[바로가기](https://github.com/Altu-Bitu-2/Notice)|[바로가기](https://github.com/Altu-Bitu-2/Notice)|
 | 2022.06.07 |위상 정렬|[@bsa0322](https://github.com/bsa0322)|[바로가기](https://github.com/Altu-Bitu-2/Notice)|[바로가기](https://github.com/Altu-Bitu-2/Notice)|
+
+
 ---
 
 ## 🤙 규칙
@@ -76,6 +78,9 @@ variable_name #변수
 function_name #함수
 CONSTANT_VALUE #global 상수
 ```
+
+### 참고: c++ vs python3
+[바로가기](https://diamond-drum-0d1.notion.site/C-vs-Python3-aad9ab44648d47d5b8f71e1845081ec4)
 
 ### ⚡ 클린 코드 작성법
 
