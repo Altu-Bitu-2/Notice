@@ -67,7 +67,7 @@
 <details>
 <summary>패션왕 신해빈</summary>
 <div markdown="1">
-&nbsp;&nbsp;&nbsp;&nbsp;어차피 같은 종류의 의상은 하나밖에 못 입는 다네요! 경우의 수를 계산하기 위해선 무엇을 카운트 해야 할까요? 그리고 알몸인 경우가 생기지 않도록 주의해야겠어요!
+&nbsp;&nbsp;&nbsp;&nbsp;어떤 옷을 입을지 알 필요는 없을 것 같아요! 이때 알몸인 경우가 생기지 않도록 주의해야겠어요.
 </div>
 </details>
 
