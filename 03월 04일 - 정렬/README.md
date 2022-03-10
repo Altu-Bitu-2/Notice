@@ -23,8 +23,8 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/10804" target="_blank">10804</a>|<a href="https://www.acmicpc.net/problem/10804" target="_blank">카드 역배치</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/12840" target="_blank">12840</a>|<a href="https://www.acmicpc.net/problem/12840" target="_blank">창용이의 시계</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/>|[바로가기]()||
+|<a href="https://www.acmicpc.net/problem/10804" target="_blank">10804</a>|<a href="https://www.acmicpc.net/problem/10804" target="_blank">카드 역배치</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/>|[C++](https://github.com/Altu-Bitu-2/Notice/blob/main/03%EC%9B%94%2004%EC%9D%BC%20-%20%EC%A0%95%EB%A0%AC/%EA%B3%BC%EC%A0%9C/10804.cpp)</br>[Python3](https://github.com/Altu-Bitu-2/Notice/blob/main/03%EC%9B%94%2004%EC%9D%BC%20-%20%EC%A0%95%EB%A0%AC/%EA%B3%BC%EC%A0%9C/10804.py)|구현, 시뮬레이션|
+|<a href="https://www.acmicpc.net/problem/12840" target="_blank">12840</a>|<a href="https://www.acmicpc.net/problem/12840" target="_blank">창용이의 시계</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/>|[C++](https://github.com/Altu-Bitu-2/Notice/blob/main/03%EC%9B%94%2004%EC%9D%BC%20-%20%EC%A0%95%EB%A0%AC/%EA%B3%BC%EC%A0%9C/12840.cpp)</br>[Python3](https://github.com/Altu-Bitu-2/Notice/blob/main/03%EC%9B%94%2004%EC%9D%BC%20-%20%EC%A0%95%EB%A0%AC/%EA%B3%BC%EC%A0%9C/12840.py)|구현, 시뮬레이션|
 
 
 ---
@@ -33,11 +33,11 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/11651" target="_blank">11651</a>|<a href="https://www.acmicpc.net/problem/11651" target="_blank">좌표 정렬하기2</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/1758" target="_blank">1758</a>|<a href="https://www.acmicpc.net/problem/1758" target="_blank">알바생 강호</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/1431" target="_blank">1431</a>|<a href="https://www.acmicpc.net/problem/1431" target="_blank">시리얼 번호</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/1946" target="_blank">1946</a>|<a href="https://www.acmicpc.net/problem/1946" target="_blank">신입 사원</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/1026" target="_blank">1026</a>|<a href="https://www.acmicpc.net/problem/1026" target="_blank">보물</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|[바로가기]()||
+|<a href="https://www.acmicpc.net/problem/11651" target="_blank">11651</a>|<a href="https://www.acmicpc.net/problem/11651" target="_blank">좌표 정렬하기2</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>|[C++](https://github.com/Altu-Bitu-2/Notice/blob/main/03%EC%9B%94%2004%EC%9D%BC%20-%20%EC%A0%95%EB%A0%AC/%EA%B3%BC%EC%A0%9C/11651.cpp)</br>[Python3](https://github.com/Altu-Bitu-2/Notice/blob/main/03%EC%9B%94%2004%EC%9D%BC%20-%20%EC%A0%95%EB%A0%AC/%EA%B3%BC%EC%A0%9C/11651.py)|정렬|
+|<a href="https://www.acmicpc.net/problem/1758" target="_blank">1758</a>|<a href="https://www.acmicpc.net/problem/1758" target="_blank">알바생 강호</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|[C++](https://github.com/Altu-Bitu-2/Notice/blob/main/03%EC%9B%94%2004%EC%9D%BC%20-%20%EC%A0%95%EB%A0%AC/%EA%B3%BC%EC%A0%9C/1758.cpp)</br>[Python3](https://github.com/Altu-Bitu-2/Notice/blob/main/03%EC%9B%94%2004%EC%9D%BC%20-%20%EC%A0%95%EB%A0%AC/%EA%B3%BC%EC%A0%9C/1758.py)|정렬, 그리디|
+|<a href="https://www.acmicpc.net/problem/1431" target="_blank">1431</a>|<a href="https://www.acmicpc.net/problem/1431" target="_blank">시리얼 번호</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[C++](https://github.com/Altu-Bitu-2/Notice/blob/main/03%EC%9B%94%2004%EC%9D%BC%20-%20%EC%A0%95%EB%A0%AC/%EA%B3%BC%EC%A0%9C/1431.cpp)</br>[Python3](https://github.com/Altu-Bitu-2/Notice/blob/main/03%EC%9B%94%2004%EC%9D%BC%20-%20%EC%A0%95%EB%A0%AC/%EA%B3%BC%EC%A0%9C/1431.py)|정렬, 문자열|
+|<a href="https://www.acmicpc.net/problem/1946" target="_blank">1946</a>|<a href="https://www.acmicpc.net/problem/1946" target="_blank">신입 사원</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>|[C++](https://github.com/Altu-Bitu-2/Notice/blob/main/03%EC%9B%94%2004%EC%9D%BC%20-%20%EC%A0%95%EB%A0%AC/%EA%B3%BC%EC%A0%9C/1946.cpp)</br>[Python3](https://github.com/Altu-Bitu-2/Notice/blob/main/03%EC%9B%94%2004%EC%9D%BC%20-%20%EC%A0%95%EB%A0%AC/%EA%B3%BC%EC%A0%9C/1946.py)|정렬, 그리디|
+|<a href="https://www.acmicpc.net/problem/1026" target="_blank">1026</a>|<a href="https://www.acmicpc.net/problem/1026" target="_blank">보물</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|[C++](https://github.com/Altu-Bitu-2/Notice/blob/main/03%EC%9B%94%2004%EC%9D%BC%20-%20%EC%A0%95%EB%A0%AC/%EA%B3%BC%EC%A0%9C/1026.cpp)</br>[Python3](https://github.com/Altu-Bitu-2/Notice/blob/main/03%EC%9B%94%2004%EC%9D%BC%20-%20%EC%A0%95%EB%A0%AC/%EA%B3%BC%EC%A0%9C/1026.py)||
 
 ---
 
@@ -97,4 +97,10 @@
 ### 파이썬 보충 설명
 
 🔗 [링크](https://diamond-drum-0d1.notion.site/7b889a419edc4a93b55986ca93877e2f)
+
+---
+
+### 코드리뷰 가이드
+
+🔗 [링크](https://diamond-drum-0d1.notion.site/3-4-93d160e75a8d44e98556637602094d0c)
 
