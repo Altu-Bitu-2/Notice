@@ -35,7 +35,7 @@
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
 |<a href="https://www.acmicpc.net/problem/1918" target="_blank">1918</a>|<a href="https://www.acmicpc.net/problem/1918" target="_blank">후위 표기식</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|[바로가기]()||
-|<a href="hhttps://www.acmicpc.net/problem/18115" target="_blank">18115</a>|<a href="https://www.acmicpc.net/problem/18115" target="_blank">카드 놓기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[바로가기]()||
+|<a href="https://www.acmicpc.net/problem/18115" target="_blank">18115</a>|<a href="https://www.acmicpc.net/problem/18115" target="_blank">카드 놓기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[바로가기]()||
 |<a href="https://www.acmicpc.net/problem/2504" target="_blank">2504</a>|<a href="https://www.acmicpc.net/problem/2504" target="_blank">괄호의 값</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>|[바로가기]()||
 |<a href="https://www.acmicpc.net/problem/11866" target="_blank">11866</a>|<a href="https://www.acmicpc.net/problem/11866" target="_blank">요세푸스 문제 0</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|[바로가기]()||
 |<a href="https://www.acmicpc.net/problem/2841" target="_blank">2841</a>|<a href="https://www.acmicpc.net/problem/2841" target="_blank">외계인의 기타 연주</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>|[바로가기]()||
