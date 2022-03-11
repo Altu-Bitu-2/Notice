@@ -24,8 +24,8 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/1213" target="_blank">1213</a>|<a href="https://www.acmicpc.net/problem/1213" target="_blank">팰린드롬 만들기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/2108" target="_blank">2108</a>|<a href="https://www.acmicpc.net/problem/2108" target="_blank">통계학</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/>|[바로가기]()||
+|<a href="https://www.acmicpc.net/problem/1213" target="_blank">1213</a>|<a href="https://www.acmicpc.net/problem/1213" target="_blank">팰린드롬 만들기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|[바로가기]()||
+|<a href="https://www.acmicpc.net/problem/2108" target="_blank">2108</a>|<a href="https://www.acmicpc.net/problem/2108" target="_blank">통계학</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[바로가기]()||
 
 
 ---
@@ -46,14 +46,14 @@
 ### 힌트
 
 <details>
-<summary>그룹 단어 체커</summary>
+<summary>팰린드롬 만들기</summary>
 <div markdown="1">
 &nbsp;&nbsp;&nbsp;&nbsp;어떤 알파벳이 있는지 파악부터 해야할 것 같아요. 그리고, 팰린드롬 문자열이 어떤 구조로 되어 있는지 분석해보는게 좋겠어요.
 </div>
 </details>
 
 <details>
-<summary>시험 감독</summary>
+<summary>통계학</summary>
 <div markdown="1">
 &nbsp;&nbsp;&nbsp;&nbsp;백준에 있는 예제에 반례가 있어요. 예외 처리를 해줘야겠죠? 파이썬의 경우, round함수는 우리 생각과는 조금 다르게 작동해요! 이 점을 주의해야 합니다.
 </div>
