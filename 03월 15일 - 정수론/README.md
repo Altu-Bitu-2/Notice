@@ -8,10 +8,10 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/2609" target="_blank">2609</a>|<a href="https://www.acmicpc.net/problem/2609" target="_blank">최대공약수와 최소공배수</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>|[바로가기]()|유클리드 호제법|
-|<a href="https://www.acmicpc.net/problem/2960" target="_blank">2960</a>|<a href="https://www.acmicpc.net/problem/2960" target="_blank">에라토스테네스의 체</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|[바로가기]()|에라토스테네스|
-|<a href="https://www.acmicpc.net/problem/16563" target="_blank">16563</a>|<a href="https://www.acmicpc.net/problem/16563" target="_blank">어려운 소인수분해</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기]()|에라토스테네스|
-|<a href="https://www.acmicpc.net/problem/9613" target="_blank">9613</a>|<a href="https://www.acmicpc.net/problem/9613" target="_blank">GCD 합</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[바로가기]()|유클리드 호제법|
+|<a href="https://www.acmicpc.net/problem/2609" target="_blank">2609</a>|<a href="https://www.acmicpc.net/problem/2609" target="_blank">최대공약수와 최소공배수</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>|[바로가기](https://github.com/Altu-Bitu-2/Notice/blob/main/03%EC%9B%94%2015%EC%9D%BC%20-%20%EC%A0%95%EC%88%98%EB%A1%A0/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EC%BD%94%EB%94%A9/2609.cpp)|유클리드 호제법|
+|<a href="https://www.acmicpc.net/problem/2960" target="_blank">2960</a>|<a href="https://www.acmicpc.net/problem/2960" target="_blank">에라토스테네스의 체</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|[바로가기](https://github.com/Altu-Bitu-2/Notice/blob/main/03%EC%9B%94%2015%EC%9D%BC%20-%20%EC%A0%95%EC%88%98%EB%A1%A0/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EC%BD%94%EB%94%A9/2960.cpp)|에라토스테네스|
+|<a href="https://www.acmicpc.net/problem/16563" target="_blank">16563</a>|<a href="https://www.acmicpc.net/problem/16563" target="_blank">어려운 소인수분해</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기](https://github.com/Altu-Bitu-2/Notice/blob/main/03%EC%9B%94%2015%EC%9D%BC%20-%20%EC%A0%95%EC%88%98%EB%A1%A0/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EC%BD%94%EB%94%A9/16563.cpp)|에라토스테네스|
+|<a href="https://www.acmicpc.net/problem/9613" target="_blank">9613</a>|<a href="https://www.acmicpc.net/problem/9613" target="_blank">GCD 합</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[바로가기](https://github.com/Altu-Bitu-2/Notice/blob/main/03%EC%9B%94%2015%EC%9D%BC%20-%20%EC%A0%95%EC%88%98%EB%A1%A0/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EC%BD%94%EB%94%A9/9613.cpp)|유클리드 호제법|
 
 
 ## ✏️ 과제
