@@ -38,14 +38,16 @@
 <details>
 <summary>30</summary>
 <div markdown="1">
-
+&nbsp;&nbsp;&nbsp;&nbsp;
+입력되는 숫자가 매우 크니까, 숫자형으로는 받을 수 없을거 같아요. 그리고 30의 배수가 되기 위한 조건에는 무엇이 있을까요?
 </div>
 </details>
 
 <details>
 <summary>민트초코</summary>
 <div markdown="1">
-
+&nbsp;&nbsp;&nbsp;&nbsp;
+연산은 *와 / 밖에 없네요! 연산한 최종 결과로 판단하지 않고, 과정에서 판단할 수 있는 방법이 없을까요? 수는 분해가 가능하죠.
 </div>
 </details>
 
@@ -53,19 +55,22 @@
 <summary>골드바흐의 추측</summary>
 <div markdown="1">
 &nbsp;&nbsp;&nbsp;&nbsp;
+  n이 꽤 크네요. n까지의 소수를 빠르게 판단할 수 있는 방법을 써야 할 것 같아요.
 </div>
 </details>
 
 <details>
 <summary>백대열</summary>
 <div markdown="1">
-
+&nbsp;&nbsp;&nbsp;&nbsp;
+우선 ':'를 기준으로 문자열을 나눠야겠어요. 그리고 문자열을 정수로 바꾸는 함수가 있었는데, 기억나시나요?
 </div>
 </details>
 
 <details>
 <summary>공약수</summary>
 <div markdown="1">
-
+&nbsp;&nbsp;&nbsp;&nbsp;
+최대공약수와 최소공배수의 성질을 떠올려보세요. 두 수 A, B에 대해 최대공약수와 최소공배수의 곱은 A와 B의 곱과 같았었죠? 그리고 또 어떤 성질이 있었나요?
 </div>
 </details>
