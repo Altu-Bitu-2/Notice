@@ -26,7 +26,7 @@
 | :-----: | :-----: | :-----: | :-----: | :-----: |
 |<a href="https://www.acmicpc.net/problem/10610" target="_blank">10610</a>|<a href="https://www.acmicpc.net/problem/10610" target="_blank">30</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>|[바로가기]()|정렬,정수론|
 |<a href="https://www.acmicpc.net/problem/20302" target="_blank">20302</a>|<a href="https://www.acmicpc.net/problem/20302" target="_blank">민트 초코</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기]()|에라토스테네스의 체|
-|<a href="https://www.acmicpc.net/problem/6588" target="_blank">6588</a>|<a href="https://www.acmicpc.net/problem/6558" target="_blank">골드바흐의 추측</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>|[바로가기]()|에라토스테네스의 체|
+|<a href="https://www.acmicpc.net/problem/6588" target="_blank">6588</a>|<a href="https://www.acmicpc.net/problem/6588" target="_blank">골드바흐의 추측</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>|[바로가기]()|에라토스테네스의 체|
 |<a href="https://www.acmicpc.net/problem/11866" target="_blank">14490</a>|<a href="https://www.acmicpc.net/problem/14490" target="_blank">백대열</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|[바로가기]()|유클리드 호제법|
 |<a href="https://www.acmicpc.net/problem/2436" target="_blank">2436</a>|<a href="https://www.acmicpc.net/problem/2436" target="_blank">공약수</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기]()|유클리드 호제법|
 
