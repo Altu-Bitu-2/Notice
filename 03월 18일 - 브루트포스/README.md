@@ -31,11 +31,11 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/2798" target="_blank">2798</a>|<a href="https://www.acmicpc.net/problem/2798" target="_blank">블랙잭</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/>|[바로가기]()|브루트포스|
-|<a href="https://www.acmicpc.net/problem/1018" target="_blank">1018</a>|<a href="https://www.acmicpc.net/problem/1018" target="_blank">체스판 다시 칠하기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>|[바로가기]()|브루트포스|
-|<a href="https://www.acmicpc.net/problem/1759" target="_blank">1759</a>|<a href="https://www.acmicpc.net/problem/1759" target="_blank">암호만들기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기]()|브루트포스,조합,백트래킹|
-|<a href="https://www.acmicpc.net/problem/2858" target="_blank">2858</a>|<a href="https://www.acmicpc.net/problem/2858" target="_blank">기숙사 바닥</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/>|[바로가기]()|수학,브루트포스|
-|<a href="https://www.acmicpc.net/problem/17626" target="_blank">17626</a>|<a href="https://www.acmicpc.net/problem/17626" target="_blank">Four Squares</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|[바로가기]()|dp,브루트포스|
+|<a href="https://www.acmicpc.net/problem/2798" target="_blank">2798</a>|<a href="https://www.acmicpc.net/problem/2798" target="_blank">블랙잭</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/>|[바로가기]()||
+|<a href="https://www.acmicpc.net/problem/1018" target="_blank">1018</a>|<a href="https://www.acmicpc.net/problem/1018" target="_blank">체스판 다시 칠하기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>|[바로가기]()||
+|<a href="https://www.acmicpc.net/problem/1759" target="_blank">1759</a>|<a href="https://www.acmicpc.net/problem/1759" target="_blank">암호만들기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기]()||
+|<a href="https://www.acmicpc.net/problem/2858" target="_blank">2858</a>|<a href="https://www.acmicpc.net/problem/2858" target="_blank">기숙사 바닥</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/>|[바로가기]()||
+|<a href="https://www.acmicpc.net/problem/17626" target="_blank">17626</a>|<a href="https://www.acmicpc.net/problem/17626" target="_blank">Four Squares</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|[바로가기]()||
 
 
 ---
