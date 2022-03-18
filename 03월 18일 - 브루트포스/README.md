@@ -22,8 +22,8 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/10757" target="_blank">10757</a>|<a href="https://www.acmicpc.net/problem/10757" target="_blank">큰수 A+B</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/>|[바로가기]()|수학,구현|
-|<a href="https://www.acmicpc.net/problem/2503" target="_blank">2503</a>|<a href="https://www.acmicpc.net/problem/2503" target="_blank">숫자 야구</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|[바로가기]()|구현,브루트포스|
+|<a href="https://www.acmicpc.net/problem/10757" target="_blank">10757</a>|<a href="https://www.acmicpc.net/problem/10757" target="_blank">큰수 A+B</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/>|[바로가기]()||
+|<a href="https://www.acmicpc.net/problem/2503" target="_blank">2503</a>|<a href="https://www.acmicpc.net/problem/2503" target="_blank">숫자 야구</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|[바로가기]()||
 
 ---
 
