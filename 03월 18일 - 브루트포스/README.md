@@ -48,7 +48,7 @@
 <summary>큰수 A+B</summary>
 <div markdown="1">
 &nbsp;&nbsp;&nbsp;&nbsp;
-
+그냥 더하기엔 숫자가 너무 커요. 손 풀이로 덧셈하는 과정을 생각해보세요! 이 과정을 구현하려면 숫자를 한 자리씩 쪼개야겠네요. !Python 사용 필독! print(a+b) 하지 말고 꼭 직접 구현해주세요!
 </div>
 </details>
 
@@ -56,7 +56,7 @@
 <summary>숫자 야구</summary>
 <div markdown="1">
 &nbsp;&nbsp;&nbsp;&nbsp;
-
+서로 다른 세 자리 수 중에 최대 수는 무엇이죠? 모든 경우를 다 해봐도 좋겠어요. 0은 사용하지 않는다는 걸 주의해야 해요.
 </div>
 </details>
 
@@ -64,7 +64,7 @@
 <summary>블랙잭</summary>
 <div markdown="1">
 &nbsp;&nbsp;&nbsp;&nbsp;
-
+M을 '넘지 않으면서' 가장 가까운 수를 찾아야 해요.
 </div>
 </details>
 
@@ -72,7 +72,7 @@
 <summary>체스판 다시 칠하기</summary>
 <div markdown="1">
 &nbsp;&nbsp;&nbsp;&nbsp;
-
+가능한 체스판의 모양은 이미 정해져 있어요. 두가지 경우는 색이 정확히 반전됩니다.
 </div>
 </details>
 
@@ -80,7 +80,7 @@
 <summary>암호 만들기</summary>
 <div markdown="1">
 &nbsp;&nbsp;&nbsp;&nbsp;
-
+알파벳의 수가 최대 15로 크지 않아요. 추가로 암호를 오름차순으로 만드려면, 사전 작업이 필요할거 같아요.
 </div>
 </details>
 
@@ -88,7 +88,7 @@
 <summary>기숙사 바닥</summary>
 <div markdown="1">
 &nbsp;&nbsp;&nbsp;&nbsp;
-
+빨간 타일과 갈색 타일의 개수를 합치면 타일의 무엇(수학 관련)과 같죠? 그리고 그 합이 그렇게 크진 않은 것 같아요.
 </div>
 </details>
 
@@ -96,7 +96,7 @@
 <summary>Four Squares</summary>
 <div markdown="1">
 &nbsp;&nbsp;&nbsp;&nbsp;
-
+라그랑주는 1770년에 모든 자연수는 넷 혹은 그 이하의 제곱수의 합으로 표현할 수 있다고 '증명'하였다. 답의 범위는 정해져 있어요.
 </div>
 </details>
 
