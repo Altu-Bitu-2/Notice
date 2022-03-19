@@ -41,8 +41,8 @@ int findMode(int n, vector<int> &arr) {
     }
 
     // 정렬
-    // 1. 개수(first)에 대해 내림차순
-    // 2. 값(second)에 대해 오름차순
+    // 1. 개수(second)에 대해 내림차순
+    // 2. 값(first)에 대해 오름차순
     sort(count.begin(), count.end(), cmp);
 
     // 최빈 값이 여러개인지 확인
