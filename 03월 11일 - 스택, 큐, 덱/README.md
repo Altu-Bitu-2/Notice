@@ -24,8 +24,8 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/1213" target="_blank">1213</a>|<a href="https://www.acmicpc.net/problem/1213" target="_blank">팰린드롬 만들기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/2108" target="_blank">2108</a>|<a href="https://www.acmicpc.net/problem/2108" target="_blank">통계학</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[바로가기]()||
+|<a href="https://www.acmicpc.net/problem/1213" target="_blank">1213</a>|<a href="https://www.acmicpc.net/problem/1213" target="_blank">팰린드롬 만들기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|[C++](https://github.com/Altu-Bitu-2/Notice/blob/main/03%EC%9B%94%2011%EC%9D%BC%20-%20%EC%8A%A4%ED%83%9D%2C%20%ED%81%90%2C%20%EB%8D%B1/%EA%B3%BC%EC%A0%9C/1213.cpp)</br>[Python3 [1]](https://github.com/Altu-Bitu-2/Notice/blob/main/03%EC%9B%94%2011%EC%9D%BC%20-%20%EC%8A%A4%ED%83%9D%2C%20%ED%81%90%2C%20%EB%8D%B1/%EA%B3%BC%EC%A0%9C/1213.py) [[2]](https://github.com/Altu-Bitu-2/Notice/blob/main/03%EC%9B%94%2011%EC%9D%BC%20-%20%EC%8A%A4%ED%83%9D%2C%20%ED%81%90%2C%20%EB%8D%B1/%EA%B3%BC%EC%A0%9C/1213_v2.py)|구현, 문자열, 그리디|
+|<a href="https://www.acmicpc.net/problem/2108" target="_blank">2108</a>|<a href="https://www.acmicpc.net/problem/2108" target="_blank">통계학</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[C++ [1]](https://github.com/Altu-Bitu-2/Notice/blob/main/03%EC%9B%94%2011%EC%9D%BC%20-%20%EC%8A%A4%ED%83%9D%2C%20%ED%81%90%2C%20%EB%8D%B1/%EA%B3%BC%EC%A0%9C/2108_v1.cpp) [[2]](https://github.com/Altu-Bitu-2/Notice/blob/main/03%EC%9B%94%2011%EC%9D%BC%20-%20%EC%8A%A4%ED%83%9D%2C%20%ED%81%90%2C%20%EB%8D%B1/%EA%B3%BC%EC%A0%9C/2108_v2.cpp)</br>[Python3](https://github.com/Altu-Bitu-2/Notice/blob/main/03%EC%9B%94%2011%EC%9D%BC%20-%20%EC%8A%A4%ED%83%9D%2C%20%ED%81%90%2C%20%EB%8D%B1/%EA%B3%BC%EC%A0%9C/2108.py)|구현, 수학, 정렬|
 
 
 ---
@@ -34,11 +34,11 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/1918" target="_blank">1918</a>|<a href="https://www.acmicpc.net/problem/1918" target="_blank">후위 표기식</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/18115" target="_blank">18115</a>|<a href="https://www.acmicpc.net/problem/18115" target="_blank">카드 놓기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/2504" target="_blank">2504</a>|<a href="https://www.acmicpc.net/problem/2504" target="_blank">괄호의 값</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/11866" target="_blank">11866</a>|<a href="https://www.acmicpc.net/problem/11866" target="_blank">요세푸스 문제 0</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/2841" target="_blank">2841</a>|<a href="https://www.acmicpc.net/problem/2841" target="_blank">외계인의 기타 연주</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>|[바로가기]()||
+|<a href="https://www.acmicpc.net/problem/1918" target="_blank">1918</a>|<a href="https://www.acmicpc.net/problem/1918" target="_blank">후위 표기식</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|[C++](https://github.com/Altu-Bitu-2/Notice/blob/main/03%EC%9B%94%2011%EC%9D%BC%20-%20%EC%8A%A4%ED%83%9D%2C%20%ED%81%90%2C%20%EB%8D%B1/%EA%B3%BC%EC%A0%9C/1918.cpp)</br>[Python3](https://github.com/Altu-Bitu-2/Notice/blob/main/03%EC%9B%94%2011%EC%9D%BC%20-%20%EC%8A%A4%ED%83%9D%2C%20%ED%81%90%2C%20%EB%8D%B1/%EA%B3%BC%EC%A0%9C/1918.py)|스택|
+|<a href="https://www.acmicpc.net/problem/18115" target="_blank">18115</a>|<a href="https://www.acmicpc.net/problem/18115" target="_blank">카드 놓기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[C++](https://github.com/Altu-Bitu-2/Notice/blob/main/03%EC%9B%94%2011%EC%9D%BC%20-%20%EC%8A%A4%ED%83%9D%2C%20%ED%81%90%2C%20%EB%8D%B1/%EA%B3%BC%EC%A0%9C/18115.cpp)</br>[Python3](https://github.com/Altu-Bitu-2/Notice/blob/main/03%EC%9B%94%2011%EC%9D%BC%20-%20%EC%8A%A4%ED%83%9D%2C%20%ED%81%90%2C%20%EB%8D%B1/%EA%B3%BC%EC%A0%9C/18115.py)|덱|
+|<a href="https://www.acmicpc.net/problem/2504" target="_blank">2504</a>|<a href="https://www.acmicpc.net/problem/2504" target="_blank">괄호의 값</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>|[C++](https://github.com/Altu-Bitu-2/Notice/blob/main/03%EC%9B%94%2011%EC%9D%BC%20-%20%EC%8A%A4%ED%83%9D%2C%20%ED%81%90%2C%20%EB%8D%B1/%EA%B3%BC%EC%A0%9C/2504.cpp)</br>[Python3](https://github.com/Altu-Bitu-2/Notice/blob/main/03%EC%9B%94%2011%EC%9D%BC%20-%20%EC%8A%A4%ED%83%9D%2C%20%ED%81%90%2C%20%EB%8D%B1/%EA%B3%BC%EC%A0%9C/2504.py)|스택, 재귀|
+|<a href="https://www.acmicpc.net/problem/11866" target="_blank">11866</a>|<a href="https://www.acmicpc.net/problem/11866" target="_blank">요세푸스 문제 0</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|[C++](https://github.com/Altu-Bitu-2/Notice/blob/main/03%EC%9B%94%2011%EC%9D%BC%20-%20%EC%8A%A4%ED%83%9D%2C%20%ED%81%90%2C%20%EB%8D%B1/%EA%B3%BC%EC%A0%9C/11866.cpp)</br>[Python3](https://github.com/Altu-Bitu-2/Notice/blob/main/03%EC%9B%94%2011%EC%9D%BC%20-%20%EC%8A%A4%ED%83%9D%2C%20%ED%81%90%2C%20%EB%8D%B1/%EA%B3%BC%EC%A0%9C/11866.py)|큐|
+|<a href="https://www.acmicpc.net/problem/2841" target="_blank">2841</a>|<a href="https://www.acmicpc.net/problem/2841" target="_blank">외계인의 기타 연주</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>|[C++](https://github.com/Altu-Bitu-2/Notice/blob/main/03%EC%9B%94%2011%EC%9D%BC%20-%20%EC%8A%A4%ED%83%9D%2C%20%ED%81%90%2C%20%EB%8D%B1/%EA%B3%BC%EC%A0%9C/2841.cpp)</br>[Python3](https://github.com/Altu-Bitu-2/Notice/blob/main/03%EC%9B%94%2011%EC%9D%BC%20-%20%EC%8A%A4%ED%83%9D%2C%20%ED%81%90%2C%20%EB%8D%B1/%EA%B3%BC%EC%A0%9C/2841.py)|스택|
 
 
 ---
@@ -93,3 +93,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;외계인이 누르고 있는 프렛의 정보를 어디에 저장하면 좋을까요? 가장 낮은 프렛부터 짚어가다가 높은 프렛부터 손가락을 떼게 될 것 같아요.
 </div>
 </details>
+
+---
+
+### 코드리뷰 가이드
+
+🔗 [링크](https://diamond-drum-0d1.notion.site/3-11-b5c5b008d98a4923aea315a203fb1e60)
+
