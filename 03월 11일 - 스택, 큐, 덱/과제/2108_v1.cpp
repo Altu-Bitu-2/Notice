@@ -10,10 +10,10 @@ typedef pair<int, int> ci;  // pair<int, int>에 ci라는 별칭 부여
 
 // 비교함수
 bool cmp(const ci &a, const ci &b) {
-    if (a.second == b.second) {
-        return a.first < b.first;
+    if (a.second != b.second) {
+        return a.second > b.second;
     }
-    return a.second > b.second;
+    return a.first < b.first;
 }
 
 int findMode(int n, vector<int> &arr) {
