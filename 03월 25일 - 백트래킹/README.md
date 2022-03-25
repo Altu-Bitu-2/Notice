@@ -21,6 +21,14 @@
 
 ---
 
+### 필수
+
+|문제 번호|문제 이름|난이도|풀이 링크|분류|
+| :-----: | :-----: | :-----: | :-----: | :-----: |
+|<a href="https://www.acmicpc.net/problem/20055" target="_blank">20055</a>|<a href="https://www.acmicpc.net/problem/10757" target="_blank">컨베이어 벨트 위의 로봇</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[C++]()<br/>[Python3]()||
+|<a href="https://www.acmicpc.net/problem/1205" target="_blank">20055</a>|<a href="https://www.acmicpc.net/problem/10757" target="_blank">등수 구하기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[C++]()<br/>[Python3]()||
+
+
 ### 선택 (5문제 이상)
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
