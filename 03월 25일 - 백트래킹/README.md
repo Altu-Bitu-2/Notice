@@ -8,9 +8,9 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/15649" target="_blank">15649</a>|<a href="https://www.acmicpc.net/problem/15649" target="_blank">N과M(1)</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[바로가기](https://github.com/Altu-Bitu-2/Notice/blob/main/03%EC%9B%94%2018%EC%9D%BC%20-%20%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EC%BD%94%EB%94%A9/15649.cpp)| 브루트포스|
-|<a href="https://www.acmicpc.net/problem/15650" target="_blank">15650</a>|<a href="https://www.acmicpc.net/problem/15650" target="_blank">N과M(2)</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[바로가기](https://github.com/Altu-Bitu-2/Notice/blob/main/03%EC%9B%94%2018%EC%9D%BC%20-%20%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EC%BD%94%EB%94%A9/15650.cpp)| 브루트포스|
-|<a href="https://www.acmicpc.net/problem/9663" target="_blank">9663</a>|<a href="https://www.acmicpc.net/problem/9663" target="_blank">N QUEEN</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기](https://github.com/Altu-Bitu-2/Notice/blob/main/03%EC%9B%94%2018%EC%9D%BC%20-%20%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EC%BD%94%EB%94%A9/9663.cpp)|브루트포스|
+|<a href="https://www.acmicpc.net/problem/15649" target="_blank">15649</a>|<a href="https://www.acmicpc.net/problem/15649" target="_blank">N과M(1)</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[바로가기](https://github.com/Altu-Bitu-2/Notice/blob/main/03%EC%9B%94%2018%EC%9D%BC%20-%20%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EC%BD%94%EB%94%A9/15649.cpp)||
+|<a href="https://www.acmicpc.net/problem/15650" target="_blank">15650</a>|<a href="https://www.acmicpc.net/problem/15650" target="_blank">N과M(2)</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[바로가기](https://github.com/Altu-Bitu-2/Notice/blob/main/03%EC%9B%94%2018%EC%9D%BC%20-%20%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EC%BD%94%EB%94%A9/15650.cpp)||
+|<a href="https://www.acmicpc.net/problem/9663" target="_blank">9663</a>|<a href="https://www.acmicpc.net/problem/9663" target="_blank">N QUEEN</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기](https://github.com/Altu-Bitu-2/Notice/blob/main/03%EC%9B%94%2018%EC%9D%BC%20-%20%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EC%BD%94%EB%94%A9/9663.cpp)||
 
 ## ✏️ 과제
 ### 마감기한
@@ -27,9 +27,9 @@
 | :-----: | :-----: | :-----: | :-----: | :-----: |
 |<a href="https://www.acmicpc.net/problem/14888" target="_blank">14888</a>|<a href="https://www.acmicpc.net/problem/14888" target="_blank">연산자 끼워넣기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>|[C++ ]()<br/>[Python3]()||
 |<a href="https://www.acmicpc.net/problem/2580" target="_blank">2580</a>|<a href="https://www.acmicpc.net/problem/1018" target="_blank">스도쿠</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[C++]()<br/>[Python3]()||
-|<a href="https://www.acmicpc.net/problem/15663" target="_blank">15663</a>|<a href="https://www.acmicpc.net/problem/15663" target="_blank">N과M(9)</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>|[C++ ]()&nbsp;<br/>[Python3 ]()||
+|<a href="https://www.acmicpc.net/problem/15663" target="_blank">15663</a>|<a href="https://www.acmicpc.net/problem/15663" target="_blank">N과M(9)</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>|[C++ ]()<br/>[Python3 ]()||
 |<a href="https://www.acmicpc.net/problem/17136" target="_blank">17136</a>|<a href="https://www.acmicpc.net/problem/17136" target="_blank">색종이 붙이기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/>|[C++]()<br/>[Python3]()||
-|<a href="https://www.acmicpc.net/problem/10971" target="_blank">10971</a>|<a href="https://www.acmicpc.net/problem/10971" target="_blank">외판원 순회2</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>|[C++]()[Python3]()||
+|<a href="https://www.acmicpc.net/problem/10971" target="_blank">10971</a>|<a href="https://www.acmicpc.net/problem/10971" target="_blank">외판원 순회2</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>|[C++ ]()<br/>[Python3 ]()||
 
 
 ---
@@ -74,7 +74,8 @@
 <summary>외판원 순회2</summary>
 <div markdown="1">
 &nbsp;&nbsp;&nbsp;&nbsp;
-
+</div>
+</details>
 
 
 ---
