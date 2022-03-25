@@ -25,9 +25,9 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/14888" target="_blank">2798</a>|<a href="https://www.acmicpc.net/problem/14888" target="_blank">연산자 끼워넣기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>|[C++ ]()<br/>[Python3]()||
-|<a href="https://www.acmicpc.net/problem/2580" target="_blank">1018</a>|<a href="https://www.acmicpc.net/problem/1018" target="_blank">스도쿠</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[C++]()<br/>[Python3]()||
-|<a href="https://www.acmicpc.net/problem/15663" target="_blank">1759</a>|<a href="https://www.acmicpc.net/problem/15663" target="_blank">N과M(9)</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>|[C++ ]()&nbsp;<br/>[Python3 ]()||
+|<a href="https://www.acmicpc.net/problem/14888" target="_blank">14888</a>|<a href="https://www.acmicpc.net/problem/14888" target="_blank">연산자 끼워넣기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>|[C++ ]()<br/>[Python3]()||
+|<a href="https://www.acmicpc.net/problem/2580" target="_blank">2580</a>|<a href="https://www.acmicpc.net/problem/1018" target="_blank">스도쿠</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[C++]()<br/>[Python3]()||
+|<a href="https://www.acmicpc.net/problem/15663" target="_blank">15663</a>|<a href="https://www.acmicpc.net/problem/15663" target="_blank">N과M(9)</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>|[C++ ]()&nbsp;<br/>[Python3 ]()||
 |<a href="https://www.acmicpc.net/problem/17136" target="_blank">17136</a>|<a href="https://www.acmicpc.net/problem/17136" target="_blank">색종이 붙이기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/>|[C++]()<br/>[Python3]()||
 |<a href="https://www.acmicpc.net/problem/10971" target="_blank">10971</a>|<a href="https://www.acmicpc.net/problem/10971" target="_blank">외판원 순회2</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>|[C++]()[Python3]()||
 
