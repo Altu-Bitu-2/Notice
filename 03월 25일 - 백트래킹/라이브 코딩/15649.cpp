@@ -11,7 +11,7 @@ const int SIZE = 8;
 //재귀함수 사용 시, 함수를 계속 호출할 때 매개변수도 생성되므로 전역변수로 선언하는 것이 더 효율적
 int n, m;
 vector<int> num(SIZE);
-vector<bool> check(SIZE);
+vector<bool> check(SIZE + 1);
 
 void backtracking(int cnt) { //cnt: 수열의 인덱스
     if (cnt == m) { //m개의 수열 만든 경우 (기저 조건)
