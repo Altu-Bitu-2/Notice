@@ -41,14 +41,14 @@
 <details>
 <summary>이중 우선순위 큐</summary>
 <div markdown="1">
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;최대 힙과 최소 힙이 둘 다 필요할 것 같아요. 근데 한쪽에서 삭제된 데이터를 다른쪽에 반영하려면 어떻게 해야할까요? '어떤' 데이터가 삭제됐는지 저장할 방법은 없을까요? 그리고 이 문제는 셋으로도 풀 수 있어요.
 </div>
 </details>
 
 <details>
 <summary>키로거</summary>
 <div markdown="1">
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;뒤에서만 연산할 수 있는 것이 아닌, 중간 위치에서 삽입과 삭제가 자유로운 자료구조를 사용하면 좋을 것 같아요. 직접 구현한다면 중간에 삽입, 삭제 시 기존 값들을 미리 이동 시키는것이 중요하겠네요!
 </div>
 </details>
 
