@@ -25,15 +25,13 @@ int main() {
         cin >> input;
 
         //연산
-        if (pq.size() < n) { //우선순위 큐의 크기가 N보다 작다면 그냥 투입
-            pq.push(input);
-        }
-        else if (pq.top() < input) { //우선순위 큐의 크기가 N 이상이라면 root 노드보다 input이 클 때만 갱신
+        pq.push(input);
+        if (pq.size() > n) { //최소 힙의 크기가 n 이상이라면 가장 작은 값 삭제
             pq.pop();
-            pq.push(input);
         }
     }
 
     //출력
     cout << pq.top();
+    return 0;
 }
