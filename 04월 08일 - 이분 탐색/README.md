@@ -28,7 +28,7 @@
 |<a href="https://www.acmicpc.net/problem/2805" target="_blank">2805</a>|<a href="https://www.acmicpc.net/problem/2805" target="_blank">나무 자르기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[C++]()<br/>[Python3]()||
 |<a href="https://www.acmicpc.net/problem/1561" target="_blank">1561</a>|<a href="https://www.acmicpc.net/problem/1561" target="_blank">놀이 공원</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/>|[C++]()<br/>[Python3]()||
 |<a href="https://www.acmicpc.net/problem/16401" target="_blank">16401</a>|<a href="https://www.acmicpc.net/problem/16401" target="_blank">과자 나눠주기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[C++]()<br/>[Python3](y)||
-|<a href="https://www.acmicpc.net/problem/1477" target="_blank">1477</a>|<a href="https://www.acmicpc.net/problem/1477" target="_blank">휴게소 세우기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/>|[C++]()<br/>[Python3]()||
+|<a href="https://www.acmicpc.net/problem/1477" target="_blank">1477</a>|<a href="https://www.acmicpc.net/problem/1477" target="_blank">휴게소 세우기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[C++]()<br/>[Python3]()||
 
 
 ---
