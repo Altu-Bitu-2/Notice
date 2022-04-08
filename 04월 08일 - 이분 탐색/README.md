@@ -19,6 +19,12 @@
 ~ 4 / 14 (목) 밤 11:59 - 코드 리뷰 X </br>
 ~ 4 / 15 (금) 밤 11:59 - 추가 제출 </br>
 
+### 필수
+
+|문제 번호|문제 이름|난이도|풀이 링크|분류|
+| :-----: | :-----: | :-----: | :-----: | :-----: |
+|<a href="https://www.acmicpc.net/problem/2840" target="_blank">2840</a>|<a href="https://www.acmicpc.net/problem/2840" target="_blank">행운의 바퀴</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|[C++]()<br/>[Python3]()||
+|<a href="https://www.acmicpc.net/problem/17281" target="_blank">17281</a>|<a href="https://www.acmicpc.net/problem/17281" target="_blank">⚾</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[C++]()<br/>[Python3]()||
 
 ### 선택
 
@@ -34,6 +40,20 @@
 ---
 
 ### 힌트
+
+<details>
+<summary>행운의 바퀴</summary>
+<div markdown="1">
+&nbsp;&nbsp;&nbsp;&nbsp;바퀴를 직접 돌릴 수도 있지만, 화살표가 가르키는 위치를 바꾸면서 답을 구해도 될거 같아요. 그리고, 바퀴에 있는 알파벳은 중복될 수 없다는 점을 주의해야 해요.
+</div>
+</details>
+
+<details>
+<summary>⚾</summary>
+<div markdown="1">
+&nbsp;&nbsp;&nbsp;&nbsp;입력이 그렇게 크지 않네요! 모든 경우의 수를 다 해보면 될 것 같아요. 야구를 잘 모른다면 문제에 설명이 잘 되어있으니 다시 한 번 읽어볼까요?
+</div>
+</details>
 
 <details>
 <summary>IF문 좀 대신 써줘</summary>
