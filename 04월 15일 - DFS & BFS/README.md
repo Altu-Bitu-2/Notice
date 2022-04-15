@@ -8,9 +8,9 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/1260" target="_blank">1260</a>|<a href="https://www.acmicpc.net/problem/1260" target="_blank">DFS와 BFS</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/2606" target="_blank">2606</a>|<a href="https://www.acmicpc.net/problem/2606" target="_blank">바이러스</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/7576" target="_blank">7576</a>|<a href="https://www.acmicpc.net/problem/7576" target="_blank">토마토</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기]()||
+|<a href="https://www.acmicpc.net/problem/1260" target="_blank">1260</a>|<a href="https://www.acmicpc.net/problem/1260" target="_blank">DFS와 BFS</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>|[바로가기](https://github.com/Altu-Bitu-2/Notice/blob/main/04%EC%9B%94%2015%EC%9D%BC%20-%20DFS%20%26%20BFS/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EC%BD%94%EB%94%A9/1260.cpp)|DFS, BFS|
+|<a href="https://www.acmicpc.net/problem/2606" target="_blank">2606</a>|<a href="https://www.acmicpc.net/problem/2606" target="_blank">바이러스</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[바로가기](https://github.com/Altu-Bitu-2/Notice/blob/main/04%EC%9B%94%2015%EC%9D%BC%20-%20DFS%20%26%20BFS/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EC%BD%94%EB%94%A9/2606.cpp)|DFS, BFS|
+|<a href="https://www.acmicpc.net/problem/7576" target="_blank">7576</a>|<a href="https://www.acmicpc.net/problem/7576" target="_blank">토마토</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기](https://github.com/Altu-Bitu-2/Notice/blob/main/04%EC%9B%94%2015%EC%9D%BC%20-%20DFS%20%26%20BFS/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EC%BD%94%EB%94%A9/7576.cpp)|BFS|
 
 ## ✏️ 과제
 ### 마감기한
