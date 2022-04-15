@@ -25,7 +25,7 @@ int hitScore(int hit, vector<bool> &baseman) {
     if (hit == 4) {
         score++;
     } else {
-        baseman[hit] = true; //새로운 선수들 홈에 도착
+        baseman[hit] = true; //새로운 선수 도착
     }
     return score;
 }
