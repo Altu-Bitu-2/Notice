@@ -34,7 +34,7 @@ SW학부 원스탑 튜터링에서 진행하는 코딩 테스트 대비 알고�
 ### 🌙 중급
 |    날짜    | 주제 | 담당 튜터 | 강의 자료 | 문제 |
 |:----------:|:----:|:---------:|:---------:|:----:|
-| 2022.05.03 |최단 경로|[@bsa0322](https://github.com/bsa0322)|[바로가기](https://github.com/Altu-Bitu-2/Notice)|[바로가기](https://github.com/Altu-Bitu-2/Notice)|
+| 2022.05.03 |최단 경로|[@bsa0322](https://github.com/bsa0322)|[바로가기](https://github.com/Altu-Bitu-2/Notice)|[바로가기]https://github.com/Altu-Bitu-2/Notice/tree/main/05%EC%9B%94%2003%EC%9D%BC%20-%20%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C|
 | 2022.05.10 |구현 & 코너케이스|[@bsa0322](https://github.com/bsa0322)|[바로가기](https://github.com/Altu-Bitu-2/Notice)|[바로가기](https://github.com/Altu-Bitu-2/Notice)|
 | 2022.05.17 |트리|[@ZERO-black](https://github.com/ZERO-black)|[바로가기](https://github.com/Altu-Bitu-2/Notice)|[바로가기](https://github.com/Altu-Bitu-2/Notice)|
 | 2022.05.24 |유니온 파인드|[@ZERO-black](https://github.com/ZERO-black)|[바로가기](https://github.com/Altu-Bitu-2/Notice)|[바로가기](https://github.com/Altu-Bitu-2/Notice)|
