@@ -8,8 +8,8 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/1753" target="_blank">2750</a>|<a href="https://www.acmicpc.net/problem/1753" target="_blank">최단경로</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기]()|    |
-|<a href="https://www.acmicpc.net/problem/11404" target="_blank">2751</a>|<a href="https://www.acmicpc.net/problem/11404" target="_blank">플로이드</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기]()|    |
+|<a href="https://www.acmicpc.net/problem/1753" target="_blank">1753</a>|<a href="https://www.acmicpc.net/problem/1753" target="_blank">최단경로</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기]()|    |
+|<a href="https://www.acmicpc.net/problem/11404" target="_blank">11404</a>|<a href="https://www.acmicpc.net/problem/11404" target="_blank">플로이드</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기]()|    |
 |<a href="https://www.acmicpc.net/problem/11657" target="_blank">10825</a>|<a href="https://www.acmicpc.net/problem/11657" target="_blank">타임머신</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기]()|    |
 
 
