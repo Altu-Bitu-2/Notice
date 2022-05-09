@@ -23,8 +23,8 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/11559" target="_blank">11559</a>|<a href="https://www.acmicpc.net/problem/11559" target="_blank">Puyo Puyo</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[C++]()<br/>[Python3]()||
-|<a href="https://www.acmicpc.net/problem/18111" target="_blank">18111</a>|<a href="https://www.acmicpc.net/problem/18111" target="_blank">마인크래프트</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>|[C++]()<br/>[Python3]()||
+|<a href="https://www.acmicpc.net/problem/11559" target="_blank">11559</a>|<a href="https://www.acmicpc.net/problem/11559" target="_blank">Puyo Puyo</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[C++](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2003%EC%9D%BC%20-%20%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C/%EA%B3%BC%EC%A0%9C/11559.cpp)<br/>[Python3](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2003%EC%9D%BC%20-%20%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C/%EA%B3%BC%EC%A0%9C/11559.py)|구현, 시뮬레이션, 그래프 탐색|
+|<a href="https://www.acmicpc.net/problem/18111" target="_blank">18111</a>|<a href="https://www.acmicpc.net/problem/18111" target="_blank">마인크래프트</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>|[C++](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2003%EC%9D%BC%20-%20%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C/%EA%B3%BC%EC%A0%9C/18111.cpp)<br/>[Python3](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2003%EC%9D%BC%20-%20%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C/%EA%B3%BC%EC%A0%9C/18111.py)|구현, 브루트 포스|
 
 ---
 
@@ -32,11 +32,11 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/10282" target="_blank">10282</a>|<a href="https://www.acmicpc.net/problem/10282" target="_blank">해킹</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[C++]()<br/>[Python3]()|         |
-|<a href="https://www.acmicpc.net/problem/1504" target="_blank">1504</a>|<a href="https://www.acmicpc.net/problem/1504" target="_blank">특정한 최단 경로</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[C++]()<br/>[Python3]()|  |
-|<a href="https://www.acmicpc.net/problem/1865" target="_blank">1865</a>|<a href="https://www.acmicpc.net/problem/1865" target="_blank">웜홀</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|[C++]()<br/>[Python3]()||
-|<a href="https://www.acmicpc.net/problem/1719" target="_blank">1719</a>|<a href="https://www.acmicpc.net/problem/1719" target="_blank">택배</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[C++]()<br/>[Python3]()||
-|<a href="https://programmers.co.kr/learn/courses/30/lessons/72413" target="_blank">프로그래머스</a>|<a href="https://programmers.co.kr/learn/courses/30/lessons/72413" target="_blank">합승택시요금</a>|Level 3|[C++]()<br/>[Python3]()||
+|<a href="https://www.acmicpc.net/problem/10282" target="_blank">10282</a>|<a href="https://www.acmicpc.net/problem/10282" target="_blank">해킹</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[C++](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2003%EC%9D%BC%20-%20%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C/%EA%B3%BC%EC%A0%9C/10282.cpp)<br/>[Python3](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2003%EC%9D%BC%20-%20%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C/%EA%B3%BC%EC%A0%9C/10282.py)|다익스트라|
+|<a href="https://www.acmicpc.net/problem/1504" target="_blank">1504</a>|<a href="https://www.acmicpc.net/problem/1504" target="_blank">특정한 최단 경로</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[C++](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2003%EC%9D%BC%20-%20%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C/%EA%B3%BC%EC%A0%9C/1504.cpp)<br/>[Python3](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2003%EC%9D%BC%20-%20%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C/%EA%B3%BC%EC%A0%9C/1504.py)|다익스트라|
+|<a href="https://www.acmicpc.net/problem/1865" target="_blank">1865</a>|<a href="https://www.acmicpc.net/problem/1865" target="_blank">웜홀</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|[C++](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2003%EC%9D%BC%20-%20%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C/%EA%B3%BC%EC%A0%9C/1865.cpp)<br/>[Python3](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2003%EC%9D%BC%20-%20%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C/%EA%B3%BC%EC%A0%9C/1865.py)|벨만-포드|
+|<a href="https://www.acmicpc.net/problem/1719" target="_blank">1719</a>|<a href="https://www.acmicpc.net/problem/1719" target="_blank">택배</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[C++](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2003%EC%9D%BC%20-%20%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C/%EA%B3%BC%EC%A0%9C/1719.cpp)<br/>[Python3](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2003%EC%9D%BC%20-%20%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C/%EA%B3%BC%EC%A0%9C/1719.py)|플로이드-워셜|
+|<a href="https://programmers.co.kr/learn/courses/30/lessons/72413" target="_blank">프로그래머스</a>|<a href="https://programmers.co.kr/learn/courses/30/lessons/72413" target="_blank">합승택시요금</a>|Level 3|[C++](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2003%EC%9D%BC%20-%20%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C/%EA%B3%BC%EC%A0%9C/taxi.cpp)<br/>[Python3](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2003%EC%9D%BC%20-%20%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C/%EA%B3%BC%EC%A0%9C/taxi.py)|다익스트라, 플로이드-워셜|
 
 
 
@@ -104,4 +104,4 @@
 
 ### 코드리뷰 가이드
 
-🔗 [링크]()
+🔗 [링크](https://www.notion.so/05-03-ecd8b3d770a443268f5531f8d8459bef)
