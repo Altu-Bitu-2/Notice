@@ -8,7 +8,7 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/1753" target="_blank">2011</a>|<a href="https://www.acmicpc.net/problem/2011" target="_blank">코너케이스</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기]()|코너케이스|
+|<a href="https://www.acmicpc.net/problem/1753" target="_blank">2011</a>|<a href="https://www.acmicpc.net/problem/2011" target="_blank">암호코드</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기]()|코너케이스|
 |<a href="https://www.acmicpc.net/problem/11404" target="_blank">3190</a>|<a href="https://www.acmicpc.net/problem/3190" target="_blank">구현</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기]()|구현|
 
 
