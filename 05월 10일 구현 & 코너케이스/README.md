@@ -47,7 +47,7 @@
 <summary>아기 상어</summary>
 <div markdown="1">
 &nbsp;&nbsp;&nbsp;&nbsp;
-  
+  상어가 먹을 물고기를 어떤 방법으로 찾아야 할까요? 먹을 수 있는 물고기가 여러 마리일 때는 어떻게 해야 할까요? 상어가 이동할 곳만 잘 찾으면 나머지는 어렵지 않아요. 입력이 정말 작으니 그 어떤 방법을 써도 괜찮아요.
 </div>
 </details>
 
@@ -55,7 +55,7 @@
 <summary>오목</summary>
 <div markdown="1">
 &nbsp;&nbsp;&nbsp;&nbsp;
-  
+  특정 위치를 가장 왼쪽(또는 가장 위)로 하는 가능한 모든 오목의 배치가 뭘까요? 근데 이 특정 위치가 정말 가장 왼쪽이라는 보장이 있을까요? 어떨 때 육목이 될까요?
 </div>
 </details>
 
@@ -63,7 +63,7 @@
 <summary>테트로미노</summary>
 <div markdown="1">
 &nbsp;&nbsp;&nbsp;&nbsp;
-  
+  모든 모양을 하나하나 해보기엔 경우의 수가 너무 많아요. 각 블럭들을 회전해보면 보라색 블럭을 제외하곤 다들 공통점이 있는 걸 파악할 수 있어요! 각 블럭의 원소를 탐색하며 모양을 만들어볼까요? 어떤 탐색 알고리즘을 활용할 수 있을까요?
 </div>
 </details>
 
@@ -71,7 +71,7 @@
 <summary>로봇 청소기</summary>
 <div markdown="1">
 &nbsp;&nbsp;&nbsp;&nbsp;
-  
+  방향을 다루는 문제는 많이 풀어봤으니 이제 어떻게 구현해야 하는지 어느 정도 감이 오실 거예요. 한 바퀴 돌아서 다시 원래 자리로 온 경우를 파악하기 위해 방향을 바꿀 때마다 카운트를 해줘야겠네요!
 </div>
 </details>
 
@@ -79,7 +79,7 @@
 <summary>나무 재테크</summary>
 <div markdown="1">
 &nbsp;&nbsp;&nbsp;&nbsp;
-  
+  문제의 설명 그대로 구현하면 되는 문제예요. 대신 시간 조건이 까다로우니 주의합시다! 만약 함수를 사용한다면 가급적 모든 변수를 주소 값으로 보내주는 게 좋아요.
 </div>
 </details>
 
@@ -87,7 +87,7 @@
 <summary>Java vs C++</summary>
 <div markdown="1">
 &nbsp;&nbsp;&nbsp;&nbsp;
-  
+  변수명이 C++ 형식에도 일치하고 Java 형식에도 일치하면 어떻게 되나요? 그리고 일단 에러가 나는 것부터 찾아볼까요?
 </div>
 </details>
 
@@ -95,7 +95,7 @@
 <summary>비슷한 단어</summary>
 <div markdown="1">
 &nbsp;&nbsp;&nbsp;&nbsp;
-  
+  단어가 일치하는지 확인하는 게 아니라 구성을 비교해야 해요. 이럴 때 가장 간단한 방법은 뭘까요? 꽤 자주 말한 것 같지만, 알파벳은 겨우 26개입니다!
 </div>
 </details>
 
