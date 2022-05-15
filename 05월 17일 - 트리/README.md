@@ -24,7 +24,7 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://programmers.co.kr/learn/courses/30/lessons/92342" target="_blank">프로그래머스</a>|<a href="https://programmers.co.kr/learn/courses/30/lessons/92342" target="_blank">양궁대회</a>|2022 KAKAO BLIND RECRUITING|[C++]()<br/>[Python3]()|트리|
+|<a href="https://programmers.co.kr/learn/courses/30/lessons/92342" target="_blank">프로그래머스</a>|<a href="https://programmers.co.kr/learn/courses/30/lessons/92342" target="_blank">양궁대회</a>|2022 KAKAO BLIND RECRUITMENT|[C++]()<br/>[Python3]()|트리|
 |<a href="https://www.acmicpc.net/problem/1713" target="_blank">1713</a>|<a href="https://www.acmicpc.net/problem/1713" target="_blank">후보 추천하기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>|[C++]()<br/>[Python3]()|트리|
 
 ---
