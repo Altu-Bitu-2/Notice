@@ -46,7 +46,7 @@
 ### 힌트
 <details>
 <summary>양궁대회</summary>
-<div markdown="1">
+<div markdown="1">n의 범위가 매우 작아요! 라이언이 주어진 화살로 과녁을 맞추는 모든 경우를 다뤄볼 수 있겠어요. 이때, 차이가 동점인 경우 낮은 점수를 더 많이 맞힌 경우를 선택하는 게 중요해요. 단순 재귀로는 관리하기가 힘들어요. 조건문을 써서 직접 체크해볼까요?
 &nbsp;&nbsp;&nbsp;&nbsp;
   
 </div>
@@ -54,7 +54,7 @@
 
 <details>
 <summary>후보 추천하기</summary>
-<div markdown="1">
+<div markdown="1">후보를 저장하는 컨테이너로 무엇을 사용하면 좋을까요? 후보를 바로 찾아서 연산할 수 있는 컨테이너면 좋겠네요. 후보가 모두 꽉 찼을 경우와 게시 시간을 다루는 부분을 잘 고려해야 해요. 그리고 비어있는 사진틀이 있을 수도 있어요.
 &nbsp;&nbsp;&nbsp;&nbsp;
   
 </div>
@@ -62,7 +62,7 @@
 
 <details>
 <summary>이진 검색 트리</summary>
-<div markdown="1">
+<div markdown="1">BST를 직접 만들어 볼까요? BST에 정점을 추가하는 것도 map을 다룰 때 배웠었어요. 그런 다음, 후위 순회한 결과를 출력하는 건 쉽겠네요! 피피티에도 코드가 나와있어요.
 &nbsp;&nbsp;&nbsp;&nbsp;
   
 </div>
@@ -70,7 +70,7 @@
 
 <details>
 <summary>트리의 지름</summary>
-<div markdown="1">
+<div markdown="1">지름을 이루는 두 정점을 동시에 찾을 순 없어요. 임의의 모든 정점에서 가장 멀리 있는 정점들은 어떤걸까요? 그 정점들엔 어떤 공통점이 있나요? 지름의 길이를 구하려면 자식->부모 방향으로 거슬러 올라가야 할 수도 있겠어요. 그림에 힌트가 아주 많아요!
 &nbsp;&nbsp;&nbsp;&nbsp;
   
 </div>
@@ -78,7 +78,7 @@
 
 <details>
 <summary>트리</summary>
-<div markdown="1">
+<div markdown="1">리프 노드의 수를 구하는 건 튜터링 시간에도 다뤘어요! (PPT 자료에 코드도 있어요.) 그런데 정점을 지울 때, 항상 리프 노드의 개수가 감소하기만 할까요? 증가하는 경우도 있지 않을까요?
 &nbsp;&nbsp;&nbsp;&nbsp;
   
 </div>
@@ -86,7 +86,7 @@
 
 <details>
 <summary>트리와 쿼리</summary>
-<div markdown="1">
+<div markdown="1">매번 특정 정점을 루트로 하는 서브 트리의 정점 수를 구하기엔 시간이 너무 오래 걸려요. 모든 서브 트리의 정점 수를 어딘가 '저장'해둘 수는 없을까요? 문제가 기네요. 그만큼 힌트도 많이 있습니다! (PPT에도 있구요)
 &nbsp;&nbsp;&nbsp;&nbsp;
   
 </div>
@@ -94,7 +94,7 @@
 
 <details>
 <summary>게리맨더링</summary>
-<div markdown="1">
+<div markdown="1">n의 범위가 매우 작아요! 뭐든 해봐도 좋겠어요. 일단 구역을 나누는 모든 경우의 수를 구해볼까요? 비트마스킹, 조합, 백트래킹 무엇을 써도 좋아요. 그런 다음 해당 구역이 조건을 만족하는지 확인해서 최솟값을 갱신하면 되겠네요!
 &nbsp;&nbsp;&nbsp;&nbsp;
   
 </div>
