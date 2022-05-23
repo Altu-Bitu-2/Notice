@@ -24,8 +24,8 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://programmers.co.kr/learn/courses/30/lessons/92342" target="_blank">2022 KAKAO BLIND RECRUITMENT</a>|<a href="https://programmers.co.kr/learn/courses/30/lessons/92342" target="_blank">양궁대회</a>|Level 2|[C++]()<br/>[Python3]()|트리|
-|<a href="https://www.acmicpc.net/problem/1713" target="_blank">1713</a>|<a href="https://www.acmicpc.net/problem/1713" target="_blank">후보 추천하기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>|[C++]()<br/>[Python3]()|트리|
+|<a href="https://programmers.co.kr/learn/courses/30/lessons/92342" target="_blank">2022 KAKAO BLIND RECRUITMENT</a>|<a href="https://programmers.co.kr/learn/courses/30/lessons/92342" target="_blank">양궁대회</a>|Level 2|[C++](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2017%EC%9D%BC%20-%20%ED%8A%B8%EB%A6%AC/%EA%B3%BC%EC%A0%9C/archery.cpp)<br/>[Python3](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2017%EC%9D%BC%20-%20%ED%8A%B8%EB%A6%AC/%EA%B3%BC%EC%A0%9C/archery.py)|트리|
+|<a href="https://www.acmicpc.net/problem/1713" target="_blank">1713</a>|<a href="https://www.acmicpc.net/problem/1713" target="_blank">후보 추천하기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>|[C++](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2017%EC%9D%BC%20-%20%ED%8A%B8%EB%A6%AC/%EA%B3%BC%EC%A0%9C/1713.cpp)<br/>[Python3](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2017%EC%9D%BC%20-%20%ED%8A%B8%EB%A6%AC/%EA%B3%BC%EC%A0%9C/1713.py)|트리|
 
 ---
 
@@ -33,11 +33,11 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/5639" target="_blank">5639</a>|<a href="https://www.acmicpc.net/problem/5639" target="_blank">이진 검색 트리</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[C++]()<br/>[Python3]()|그래프, 그래프 탐색|
-|<a href="https://www.acmicpc.net/problem/1967" target="_blank">1967</a>|<a href="https://www.acmicpc.net/problem/1967" target="_blank">트리의 지름</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[C++]()<br/>[Python3]()|그래프, 그래프 탐색|
-|<a href="https://www.acmicpc.net/problem/1068" target="_blank">1068</a>|<a href="https://www.acmicpc.net/problem/1068" target="_blank">트리</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[C++]()<br/>[Python3]()|그래프, 그래프 탐색|
-|<a href="https://www.acmicpc.net/problem/15681" target="_blank">15681</a>|<a href="https://www.acmicpc.net/problem/15681" target="_blank">트리와 쿼리</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[C++]()<br/>[Python3]()|그래프, 그래프 탐색|
-|<a href="https://www.acmicpc.net/problem/17471" target="_blank">17471</a>|<a href="https://www.acmicpc.net/problem/17471" target="_blank">게리맨더링</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[C++]()<br/>[Python3]()|그래프, 그래프 탐색|
+|<a href="https://www.acmicpc.net/problem/5639" target="_blank">5639</a>|<a href="https://www.acmicpc.net/problem/5639" target="_blank">이진 검색 트리</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[C++](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2017%EC%9D%BC%20-%20%ED%8A%B8%EB%A6%AC/%EA%B3%BC%EC%A0%9C/5639.cpp)<br/>[Python3 [1]](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2017%EC%9D%BC%20-%20%ED%8A%B8%EB%A6%AC/%EA%B3%BC%EC%A0%9C/5639_v1.py)&nbsp;[[2]](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2017%EC%9D%BC%20-%20%ED%8A%B8%EB%A6%AC/%EA%B3%BC%EC%A0%9C/5639_v2.py)|그래프, 그래프 탐색|
+|<a href="https://www.acmicpc.net/problem/1967" target="_blank">1967</a>|<a href="https://www.acmicpc.net/problem/1967" target="_blank">트리의 지름</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[C++](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2017%EC%9D%BC%20-%20%ED%8A%B8%EB%A6%AC/%EA%B3%BC%EC%A0%9C/1967.cpp)<br/>[Python3](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2017%EC%9D%BC%20-%20%ED%8A%B8%EB%A6%AC/%EA%B3%BC%EC%A0%9C/1967.py)|그래프, 그래프 탐색|
+|<a href="https://www.acmicpc.net/problem/1068" target="_blank">1068</a>|<a href="https://www.acmicpc.net/problem/1068" target="_blank">트리</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[C++](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2017%EC%9D%BC%20-%20%ED%8A%B8%EB%A6%AC/%EA%B3%BC%EC%A0%9C/1068.cpp)<br/>[Python3](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2017%EC%9D%BC%20-%20%ED%8A%B8%EB%A6%AC/%EA%B3%BC%EC%A0%9C/1068.py)|그래프, 그래프 탐색|
+|<a href="https://www.acmicpc.net/problem/15681" target="_blank">15681</a>|<a href="https://www.acmicpc.net/problem/15681" target="_blank">트리와 쿼리</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[C++](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2017%EC%9D%BC%20-%20%ED%8A%B8%EB%A6%AC/%EA%B3%BC%EC%A0%9C/15681.cpp)<br/>[Python3](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2017%EC%9D%BC%20-%20%ED%8A%B8%EB%A6%AC/%EA%B3%BC%EC%A0%9C/15681.py)|그래프, 그래프 탐색|
+|<a href="https://www.acmicpc.net/problem/17471" target="_blank">17471</a>|<a href="https://www.acmicpc.net/problem/17471" target="_blank">게리맨더링</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[C++](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2017%EC%9D%BC%20-%20%ED%8A%B8%EB%A6%AC/%EA%B3%BC%EC%A0%9C/17471.cpp)<br/>[Python3](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2017%EC%9D%BC%20-%20%ED%8A%B8%EB%A6%AC/%EA%B3%BC%EC%A0%9C/17471.py)|그래프, 그래프 탐색|
 
 
 
@@ -106,4 +106,4 @@
 
 ### 코드리뷰 가이드
 
-🔗 [링크]()
+🔗 [링크](https://diamond-drum-0d1.notion.site/05-17-a12aea1c62ea4ea3bbd70086117b6d58)
