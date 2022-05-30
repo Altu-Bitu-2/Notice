@@ -23,8 +23,8 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/12100" target="_blank">12100</a>|<a href="https://www.acmicpc.net/problem/12100" target="_blank">2048 (Easy)</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/>|[C++]()<br/>[Python3]()||
-|<a href="https://www.acmicpc.net/problem/16114" target="_blank">16114</a>|<a href="https://www.acmicpc.net/problem/16114" target="_blank">화살표 연산자</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[C++]()<br/>[Python3]()| &nbsp; |
+|<a href="https://www.acmicpc.net/problem/12100" target="_blank">12100</a>|<a href="https://www.acmicpc.net/problem/12100" target="_blank">2048 (Easy)</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/>|[C++](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2024%EC%9D%BC%20-%20%EC%9C%A0%EB%8B%88%EC%98%A8%20%ED%8C%8C%EC%9D%B8%EB%93%9C/%EA%B3%BC%EC%A0%9C/12100.cpp)<br/>[Python3](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2024%EC%9D%BC%20-%20%EC%9C%A0%EB%8B%88%EC%98%A8%20%ED%8C%8C%EC%9D%B8%EB%93%9C/%EA%B3%BC%EC%A0%9C/12100.py)|구현, 백트래킹|
+|<a href="https://www.acmicpc.net/problem/16114" target="_blank">16114</a>|<a href="https://www.acmicpc.net/problem/16114" target="_blank">화살표 연산자</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[C++](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2024%EC%9D%BC%20-%20%EC%9C%A0%EB%8B%88%EC%98%A8%20%ED%8C%8C%EC%9D%B8%EB%93%9C/%EA%B3%BC%EC%A0%9C/16114.cpp)<br/>[Python3](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2024%EC%9D%BC%20-%20%EC%9C%A0%EB%8B%88%EC%98%A8%20%ED%8C%8C%EC%9D%B8%EB%93%9C/%EA%B3%BC%EC%A0%9C/16114.py)|구현|
 
 
 ---
@@ -33,11 +33,11 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/20040" target="_blank">20040</a>|<a href="https://www.acmicpc.net/problem/20040" target="_blank">사이클 게임</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[C++]()<br/>[Python3]()||
-|<a href="https://programmers.co.kr/learn/courses/30/lessons/64063" target="_blank">2019 카카오 개발자 겨울 인턴십</a>|<a href="https://programmers.co.kr/learn/courses/30/lessons/64063" target="_blank">호텔 방 배정</a>|Level 4|[C++]()<br/>[Python3]()||
-|<a href="https://www.acmicpc.net/problem/1043" target="_blank">1043</a>|<a href="https://www.acmicpc.net/problem/1043" target="_blank">거짓말</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[C++]()<br/>[Python3]()||
-|<a href="https://www.acmicpc.net/problem/4195" target="_blank">4195</a>|<a href="https://www.acmicpc.net/problem/4195" target="_blank">친구 네트워크</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/>|[C++]()<br/>[Python3]()||
-|<a href="https://www.acmicpc.net/problem/20303" target="_blank">20303</a>|<a href="https://www.acmicpc.net/problem/20303" target="_blank">할로윈의 양아치</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|[C++]()<br/>[Python3]()|&nbsp;|
+|<a href="https://www.acmicpc.net/problem/20040" target="_blank">20040</a>|<a href="https://www.acmicpc.net/problem/20040" target="_blank">사이클 게임</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[C++](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2024%EC%9D%BC%20-%20%EC%9C%A0%EB%8B%88%EC%98%A8%20%ED%8C%8C%EC%9D%B8%EB%93%9C/%EA%B3%BC%EC%A0%9C/20040.cpp)<br/>[Python3](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2024%EC%9D%BC%20-%20%EC%9C%A0%EB%8B%88%EC%98%A8%20%ED%8C%8C%EC%9D%B8%EB%93%9C/%EA%B3%BC%EC%A0%9C/20040.py)|유니온 파인드|
+|<a href="https://programmers.co.kr/learn/courses/30/lessons/64063" target="_blank">2019 카카오 개발자 겨울 인턴십</a>|<a href="https://programmers.co.kr/learn/courses/30/lessons/64063" target="_blank">호텔 방 배정</a>|Level 4|[C++](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2024%EC%9D%BC%20-%20%EC%9C%A0%EB%8B%88%EC%98%A8%20%ED%8C%8C%EC%9D%B8%EB%93%9C/%EA%B3%BC%EC%A0%9C/hotelRoom.cpp)<br/>[Python3](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2024%EC%9D%BC%20-%20%EC%9C%A0%EB%8B%88%EC%98%A8%20%ED%8C%8C%EC%9D%B8%EB%93%9C/%EA%B3%BC%EC%A0%9C/hotel_room.py)|유니온 파인드, 해시 맵|
+|<a href="https://www.acmicpc.net/problem/1043" target="_blank">1043</a>|<a href="https://www.acmicpc.net/problem/1043" target="_blank">거짓말</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[C++](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2024%EC%9D%BC%20-%20%EC%9C%A0%EB%8B%88%EC%98%A8%20%ED%8C%8C%EC%9D%B8%EB%93%9C/%EA%B3%BC%EC%A0%9C/1043.cpp)<br/>[Python3](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2024%EC%9D%BC%20-%20%EC%9C%A0%EB%8B%88%EC%98%A8%20%ED%8C%8C%EC%9D%B8%EB%93%9C/%EA%B3%BC%EC%A0%9C/1043.py)|유니온 파인드|
+|<a href="https://www.acmicpc.net/problem/4195" target="_blank">4195</a>|<a href="https://www.acmicpc.net/problem/4195" target="_blank">친구 네트워크</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/>|[C++](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2024%EC%9D%BC%20-%20%EC%9C%A0%EB%8B%88%EC%98%A8%20%ED%8C%8C%EC%9D%B8%EB%93%9C/%EA%B3%BC%EC%A0%9C/4195.cpp)<br/>[Python3](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2024%EC%9D%BC%20-%20%EC%9C%A0%EB%8B%88%EC%98%A8%20%ED%8C%8C%EC%9D%B8%EB%93%9C/%EA%B3%BC%EC%A0%9C/4195.py)|유니온 파인드, 맵|
+|<a href="https://www.acmicpc.net/problem/20303" target="_blank">20303</a>|<a href="https://www.acmicpc.net/problem/20303" target="_blank">할로윈의 양아치</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|[C++](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2024%EC%9D%BC%20-%20%EC%9C%A0%EB%8B%88%EC%98%A8%20%ED%8C%8C%EC%9D%B8%EB%93%9C/%EA%B3%BC%EC%A0%9C/20303.cpp)<br/>[Python3](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2024%EC%9D%BC%20-%20%EC%9C%A0%EB%8B%88%EC%98%A8%20%ED%8C%8C%EC%9D%B8%EB%93%9C/%EA%B3%BC%EC%A0%9C/20303.py)|유니온 파인드, DP, 냅색|
 
 
 
@@ -99,4 +99,4 @@
 
 ### 코드리뷰 가이드
 
-🔗 [링크]()
+🔗 [링크](https://diamond-drum-0d1.notion.site/05-24-dc94a6383a794fb2ae5531d73c1a4b79)
