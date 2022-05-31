@@ -22,8 +22,8 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/12100" target="_blank">12100</a>|<a href="https://www.acmicpc.net/problem/12100" target="_blank">2048 (Easy)</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/>|[C++](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2024%EC%9D%BC%20-%20%EC%9C%A0%EB%8B%88%EC%98%A8%20%ED%8C%8C%EC%9D%B8%EB%93%9C/%EA%B3%BC%EC%A0%9C/12100.cpp)<br/>[Python3](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2024%EC%9D%BC%20-%20%EC%9C%A0%EB%8B%88%EC%98%A8%20%ED%8C%8C%EC%9D%B8%EB%93%9C/%EA%B3%BC%EC%A0%9C/12100.py)|구현, 백트래킹|
-|<a href="https://www.acmicpc.net/problem/16114" target="_blank">16114</a>|<a href="https://www.acmicpc.net/problem/16114" target="_blank">화살표 연산자</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[C++](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2024%EC%9D%BC%20-%20%EC%9C%A0%EB%8B%88%EC%98%A8%20%ED%8C%8C%EC%9D%B8%EB%93%9C/%EA%B3%BC%EC%A0%9C/16114.cpp)<br/>[Python3](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2024%EC%9D%BC%20-%20%EC%9C%A0%EB%8B%88%EC%98%A8%20%ED%8C%8C%EC%9D%B8%EB%93%9C/%EA%B3%BC%EC%A0%9C/16114.py)|구현|
+|<a href="https://programmers.co.kr/learn/courses/30/lessons/60061" target="_blank">2020 KAKAO BLIND RECRUITMENT</a>|<a href="https://programmers.co.kr/learn/courses/30/lessons/60061" target="_blank">기둥과 보 설치</a>|Level 3|[C++]()<br/>[Python3]()||
+|<a href="https://www.acmicpc.net/problem/1244" target="_blank">1244</a>|<a href="https://www.acmicpc.net/problem/1244" target="_blank">스위치 켜고 끄기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[C++]()<br/>[Python3]()||
 
 
 ---
@@ -32,11 +32,11 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/20040" target="_blank">20040</a>|<a href="https://www.acmicpc.net/problem/20040" target="_blank">사이클 게임</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[C++](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2024%EC%9D%BC%20-%20%EC%9C%A0%EB%8B%88%EC%98%A8%20%ED%8C%8C%EC%9D%B8%EB%93%9C/%EA%B3%BC%EC%A0%9C/20040.cpp)<br/>[Python3](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2024%EC%9D%BC%20-%20%EC%9C%A0%EB%8B%88%EC%98%A8%20%ED%8C%8C%EC%9D%B8%EB%93%9C/%EA%B3%BC%EC%A0%9C/20040.py)|유니온 파인드|
-|<a href="https://programmers.co.kr/learn/courses/30/lessons/64063" target="_blank">2019 카카오 개발자 겨울 인턴십</a>|<a href="https://programmers.co.kr/learn/courses/30/lessons/64063" target="_blank">호텔 방 배정</a>|Level 4|[C++](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2024%EC%9D%BC%20-%20%EC%9C%A0%EB%8B%88%EC%98%A8%20%ED%8C%8C%EC%9D%B8%EB%93%9C/%EA%B3%BC%EC%A0%9C/hotelRoom.cpp)<br/>[Python3](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2024%EC%9D%BC%20-%20%EC%9C%A0%EB%8B%88%EC%98%A8%20%ED%8C%8C%EC%9D%B8%EB%93%9C/%EA%B3%BC%EC%A0%9C/hotel_room.py)|유니온 파인드, 해시 맵|
-|<a href="https://www.acmicpc.net/problem/1043" target="_blank">1043</a>|<a href="https://www.acmicpc.net/problem/1043" target="_blank">거짓말</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[C++](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2024%EC%9D%BC%20-%20%EC%9C%A0%EB%8B%88%EC%98%A8%20%ED%8C%8C%EC%9D%B8%EB%93%9C/%EA%B3%BC%EC%A0%9C/1043.cpp)<br/>[Python3](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2024%EC%9D%BC%20-%20%EC%9C%A0%EB%8B%88%EC%98%A8%20%ED%8C%8C%EC%9D%B8%EB%93%9C/%EA%B3%BC%EC%A0%9C/1043.py)|유니온 파인드|
-|<a href="https://www.acmicpc.net/problem/4195" target="_blank">4195</a>|<a href="https://www.acmicpc.net/problem/4195" target="_blank">친구 네트워크</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/>|[C++](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2024%EC%9D%BC%20-%20%EC%9C%A0%EB%8B%88%EC%98%A8%20%ED%8C%8C%EC%9D%B8%EB%93%9C/%EA%B3%BC%EC%A0%9C/4195.cpp)<br/>[Python3](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2024%EC%9D%BC%20-%20%EC%9C%A0%EB%8B%88%EC%98%A8%20%ED%8C%8C%EC%9D%B8%EB%93%9C/%EA%B3%BC%EC%A0%9C/4195.py)|유니온 파인드, 맵|
-|<a href="https://www.acmicpc.net/problem/20303" target="_blank">20303</a>|<a href="https://www.acmicpc.net/problem/20303" target="_blank">할로윈의 양아치</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|[C++](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2024%EC%9D%BC%20-%20%EC%9C%A0%EB%8B%88%EC%98%A8%20%ED%8C%8C%EC%9D%B8%EB%93%9C/%EA%B3%BC%EC%A0%9C/20303.cpp)<br/>[Python3](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2024%EC%9D%BC%20-%20%EC%9C%A0%EB%8B%88%EC%98%A8%20%ED%8C%8C%EC%9D%B8%EB%93%9C/%EA%B3%BC%EC%A0%9C/20303.py)|유니온 파인드, DP, 냅색|
+|<a href="https://www.acmicpc.net/problem/10423" target="_blank">10423</a>|<a href="https://www.acmicpc.net/problem/10423" target="_blank">전기가 부족해</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/>|[C++]()<br/>[Python3]()||
+|<a href="https://www.acmicpc.net/problem/1774" target="_blank">1774</a>|<a href="https://www.acmicpc.net/problem/1774" target="_blank">우주신과의 교감</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|[C++]()<br/>[Python3]()||
+|<a href="https://www.acmicpc.net/problem/1647" target="_blank">1647</a>|<a href="https://www.acmicpc.net/problem/1647" target="_blank">도시 분할 계획</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[C++]()<br/>[Python3]()||
+|<a href="https://www.acmicpc.net/problem/16202" target="_blank">16202</a>|<a href="https://www.acmicpc.net/problem/16202" target="_blank">MST 게임</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[C++]()<br/>[Python3]()||
+|<a href="https://www.acmicpc.net/problem/1368" target="_blank">1368</a>|<a href="https://www.acmicpc.net/problem/1368" target="_blank">물대기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/>|[C++]()<br/>[Python3]()||
 
 
 
@@ -45,51 +45,51 @@
 ### 힌트
 
 <details>
-<summary>2048 (Easy)</summary>
+<summary>기둥과 보 설치</summary>
 <div markdown="1">
-&nbsp;&nbsp;&nbsp;&nbsp;가능한 모든 경우를 탐색해도 상, 하, 좌, 우 4가지 경우에 깊이는 최대 5까지 밖에 안 빠지네요! 시간은 충분해요. 블록을 이동 시키는 부분을 잘 구현해야겠어요. 잘 풀리지 않는다면, 두 수가 같지 않은 경우와 근접한 칸이 아니라 서로 떨어져 있는데 같은 수인 경우를 잘 처리했는지 확인해 볼까요?
+&nbsp;&nbsp;&nbsp;&nbsp;문제에서 제시한 조건을 차분하게 구현해야 해요. 삭제할 때 관련이 있는 칸을 빠짐 없이 확인하는 것이 중요해요. 상, 하, 좌, 우를 확인하는 것만으로 충분할까요? 대각선 혹은 원 위치도 확인해야 할까요?
 </div>
 </details>
 
 <details>
-<summary>화살표 연산자</summary>
+<summary>스위치 켜고 끄기</summary>
 <div markdown="1">
-&nbsp;&nbsp;&nbsp;&nbsp;간단해 보이지만 몇 가지 코너 케이스를 주의해야 해요. INFINITE, ERROR, 0이 나오는 경우를 잘 정리해 볼까요? x 자체가 양수와 음수일 수도 있지만, n의 개수에 따라 부호가 바뀔 수도 있죠.
+&nbsp;&nbsp;&nbsp;&nbsp;문제에서 원하는 대로 구현하면 될 것 같아요. 단, 출력을 어떻게 해야 하는지 다시 한 번 살펴볼까요?
 </div>
 </details>
 
 <details>
-<summary>사이클 게임</summary>
+<summary>전기가 부족해</summary>
 <div markdown="1">
-&nbsp;&nbsp;&nbsp;&nbsp;사이클이 발생하는 순간을 파악하려면 매번 사이클 발생 여부를 체크해야겠네요. 이걸 빠르게 계산하려면 어떤 방법을 써야 할까요?
+&nbsp;&nbsp;&nbsp;&nbsp;발전소가 있는 도시가 여러개네요. MST 여러개를 만들어야 할까요? 아니면 하나의 큰 MST를 만들 수 있는 방법은 없을까요?
 </div>
 </details>
 
 <details>
-<summary>호텔 방 배정</summary>
+<summary>우주신과의 교감</summary>
 <div markdown="1">
-&nbsp;&nbsp;&nbsp;&nbsp;배정하는 방에 곧바로 접근할 수 있는 방법은 없을까요? 배정하는 방들은 모두 순서대로 연결되어 있어요. 그런데 여기까지만 해결하면 효율성에서 점수를 얻을 수 없어요! 문제의 입력 범위를 다시 살펴볼까요? 입력으로 들어올 수 있는 방 번호의 범위가 크네요.
+&nbsp;&nbsp;&nbsp;&nbsp;4386번(별자리 만들기)과 아주 비슷한 문제입니다. 딱 하나만 더 고려하면 되는데요. 이미 연결된 통로들이 사이클을 이룰 수도 있다는 점 주의하세요!
 </div>
 </details>
 
 <details>
-<summary>거짓말</summary>
+<summary>도시 분할 계획</summary>
 <div markdown="1">
-&nbsp;&nbsp;&nbsp;&nbsp;같은 파티에 속한 사람들은 하나의 집합에 속해 있다고 할 수 있겠네요. 진실을 말할 수 없는 경우는 그 집합이 어떤 상태일 때 일까요? 라이브 코딩에서 다룬 4803번에서 힌트를 구할 수 있어요! 한 사람이 여러 파티에 참여할 수 있다는 걸 잊으면 안돼요.
+&nbsp;&nbsp;&nbsp;&nbsp;마을을 두개로 나누고, 각 마을에 대해 MST를 구하는 문제에요. 그런데, 꼭 이 순서대로 해야할까요? MST를 먼저 구하고 마을을 두개로 나눌 수 있을거 같아요!
 </div>
 </details>
 
 <details>
-<summary>친구 네트워크</summary>
+<summary>MST 게임</summary>
 <div markdown="1">
-&nbsp;&nbsp;&nbsp;&nbsp;그래프의 정점이 문자열으로 들어오네요! 바로 쓰기엔 어려우니 정수로 바꾸어 사용해야겠어요. 어떤 컨테이너를 활용하면 좋을까요?
+&nbsp;&nbsp;&nbsp;&nbsp;k가 최대 100이에요. MST 알고리즘을 k번 실행해도 괜찮을까요? 각 알고리즘들의 시간 복잡도가 어떻게 도출됐었는지 생각해보세요. 그나저나 MST를 만들 수 없다는건 어떻게 판단해야 하나요? MST를 구성하기 위해선 최소 사이클을 이루지 않는 V-1개의 간선이 필요해요.
 </div>
 </details>
 
 <details>
-<summary>할로윈의 양아치</summary>
+<summary>물대기</summary>
 <div markdown="1">
-&nbsp;&nbsp;&nbsp;&nbsp;우선 아이들의 무리와 각 무리의 사탕의 수를 구해야 해요! 이는 집합으로 나누고, 각 집합의 원소 개수와 원소들의 합을 구하는 것과 같죠. 튜터링 때 다룬 가장 효율적인 유니온 파인드를 활용해 볼 수 있겠어요. 그리고 구한 아이들의 무리를 잘 선택해서 k명 미만의 아이로 가장 많은 사탕을 뺏는 건 예전에 다룬 알고리즘을 활용할 수 있어요. 마치 무게가 정해진 배낭에 사탕을 최대한 많이 챙기는 것과 같지 않나요..?
+&nbsp;&nbsp;&nbsp;&nbsp;각 논들 사이의 간선을 고려하면서 우물을 파는 경우도 고려하기엔 너무 복잡해요. 우물을 파는 경우도 간선처럼 처리할 수 있는 방법은 없을까요? 모든 물은 강에서 시작되지 않을까요?
 </div>
 </details>
 
@@ -98,4 +98,4 @@
 
 ### 코드리뷰 가이드
 
-🔗 [링크](https://diamond-drum-0d1.notion.site/05-24-dc94a6383a794fb2ae5531d73c1a4b79)
+🔗 [링크]()
