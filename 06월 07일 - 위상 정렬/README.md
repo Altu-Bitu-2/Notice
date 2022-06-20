@@ -25,8 +25,8 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://programmers.co.kr/learn/courses/30/lessons/72415" target="_blank">2021 KAKAO BLIND RECRUITMENT</a>|<a href="https://programmers.co.kr/learn/courses/30/lessons/72415" target="_blank">카드 짝 맞추기</a>| Level 3|[C++]()<br/>[Python3]()|&nbsp;|
-|<a href="https://www.acmicpc.net/problem/1744" target="_blank">1744</a>|<a href="https://www.acmicpc.net/problem/1744" target="_blank">수 묶기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[C++]()<br/>[Python3]()|&nbsp;|
+|<a href="https://programmers.co.kr/learn/courses/30/lessons/72415" target="_blank">2021 KAKAO BLIND RECRUITMENT</a>|<a href="https://programmers.co.kr/learn/courses/30/lessons/72415" target="_blank">카드 짝 맞추기</a>| Level 3|[C++](https://github.com/Altu-Bitu-2/Notice/blob/main/06%EC%9B%94%2007%EC%9D%BC%20-%20%EC%9C%84%EC%83%81%20%EC%A0%95%EB%A0%AC/%EA%B3%BC%EC%A0%9C/card.cpp)<br/>[Python3](https://github.com/Altu-Bitu-2/Notice/blob/main/06%EC%9B%94%2007%EC%9D%BC%20-%20%EC%9C%84%EC%83%81%20%EC%A0%95%EB%A0%AC/%EA%B3%BC%EC%A0%9C/card.py)|&nbsp;구현, 브루트포스|
+|<a href="https://www.acmicpc.net/problem/1744" target="_blank">1744</a>|<a href="https://www.acmicpc.net/problem/1744" target="_blank">수 묶기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[C++](https://github.com/Altu-Bitu-2/Notice/blob/main/06%EC%9B%94%2007%EC%9D%BC%20-%20%EC%9C%84%EC%83%81%20%EC%A0%95%EB%A0%AC/%EA%B3%BC%EC%A0%9C/1744.cpp)<br/>[Python3](https://github.com/Altu-Bitu-2/Notice/blob/main/06%EC%9B%94%2007%EC%9D%BC%20-%20%EC%9C%84%EC%83%81%20%EC%A0%95%EB%A0%AC/%EA%B3%BC%EC%A0%9C/1744.py)|&nbsp;그리디, 정렬|
 
 
 ---
@@ -35,11 +35,11 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/2637" target="_blank">2637</a>|<a href="https://www.acmicpc.net/problem/2637" target="_blank">장난감 조립</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/>|[C++]()<br/>[Python3]()|&nbsp;|
-|<a href="https://www.acmicpc.net/problem/14907" target="_blank">14907</a>|<a href="https://www.acmicpc.net/problem/14907" target="_blank">프로젝트 스케줄링</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/>|[C++]()<br/>[Python3]()|&nbsp;|
-|<a href="https://www.acmicpc.net/problem/1516" target="_blank">1516</a>|<a href="https://www.acmicpc.net/problem/1516" target="_blank">게임 개발</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|[C++]()<br/>[Python3]()|&nbsp;|
-|<a href="https://www.acmicpc.net/problem/1766" target="_blank">1766</a>|<a href="https://www.acmicpc.net/problem/1766" target="_blank">문제집</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/>|[C++]()<br/>[Python3]()|&nbsp;|
-|<a href="https://www.acmicpc.net/problem/23632" target="_blank">23632</a>|<a href="https://www.acmicpc.net/problem/23632" target="_blank">쿠키런 킹덤</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/>|[C++]()<br/>[Python3]()|&nbsp;|
+|<a href="https://www.acmicpc.net/problem/2637" target="_blank">2637</a>|<a href="https://www.acmicpc.net/problem/2637" target="_blank">장난감 조립</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/>|[C++](https://github.com/Altu-Bitu-2/Notice/blob/main/06%EC%9B%94%2007%EC%9D%BC%20-%20%EC%9C%84%EC%83%81%20%EC%A0%95%EB%A0%AC/%EA%B3%BC%EC%A0%9C/2637.cpp)<br/>[Python3](https://github.com/Altu-Bitu-2/Notice/blob/main/06%EC%9B%94%2007%EC%9D%BC%20-%20%EC%9C%84%EC%83%81%20%EC%A0%95%EB%A0%AC/%EA%B3%BC%EC%A0%9C/2637.py)|&nbsp;위상 정렬, 동적 프로그래밍, 그래프 탐색|
+|<a href="https://www.acmicpc.net/problem/14907" target="_blank">14907</a>|<a href="https://www.acmicpc.net/problem/14907" target="_blank">프로젝트 스케줄링</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/>|[C++](https://github.com/Altu-Bitu-2/Notice/blob/main/06%EC%9B%94%2007%EC%9D%BC%20-%20%EC%9C%84%EC%83%81%20%EC%A0%95%EB%A0%AC/%EA%B3%BC%EC%A0%9C/14907.cpp)<br/>[Python3](https://github.com/Altu-Bitu-2/Notice/blob/main/06%EC%9B%94%2007%EC%9D%BC%20-%20%EC%9C%84%EC%83%81%20%EC%A0%95%EB%A0%AC/%EA%B3%BC%EC%A0%9C/14907.py)|위상 정렬, 동적 프로그래밍|
+|<a href="https://www.acmicpc.net/problem/1516" target="_blank">1516</a>|<a href="https://www.acmicpc.net/problem/1516" target="_blank">게임 개발</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|[C++](https://github.com/Altu-Bitu-2/Notice/blob/main/06%EC%9B%94%2007%EC%9D%BC%20-%20%EC%9C%84%EC%83%81%20%EC%A0%95%EB%A0%AC/%EA%B3%BC%EC%A0%9C/1516.cpp)<br/>[Python3](https://github.com/Altu-Bitu-2/Notice/blob/main/06%EC%9B%94%2007%EC%9D%BC%20-%20%EC%9C%84%EC%83%81%20%EC%A0%95%EB%A0%AC/%EA%B3%BC%EC%A0%9C/1516.py)|&nbsp;위상 정렬, 동적 프로그래밍|
+|<a href="https://www.acmicpc.net/problem/1766" target="_blank">1766</a>|<a href="https://www.acmicpc.net/problem/1766" target="_blank">문제집</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/>|[C++](https://github.com/Altu-Bitu-2/Notice/blob/main/06%EC%9B%94%2007%EC%9D%BC%20-%20%EC%9C%84%EC%83%81%20%EC%A0%95%EB%A0%AC/%EA%B3%BC%EC%A0%9C/1766.cpp)<br/>[Python3](https://github.com/Altu-Bitu-2/Notice/blob/main/06%EC%9B%94%2007%EC%9D%BC%20-%20%EC%9C%84%EC%83%81%20%EC%A0%95%EB%A0%AC/%EA%B3%BC%EC%A0%9C/1766.py)|&nbsp;우선순위 큐, 위상 정렬|
+|<a href="https://www.acmicpc.net/problem/23632" target="_blank">23632</a>|<a href="https://www.acmicpc.net/problem/23632" target="_blank">쿠키런 킹덤</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/>|[C++](https://github.com/Altu-Bitu-2/Notice/blob/main/06%EC%9B%94%2007%EC%9D%BC%20-%20%EC%9C%84%EC%83%81%20%EC%A0%95%EB%A0%AC/%EA%B3%BC%EC%A0%9C/23632.cpp)<br/>[Python3](https://github.com/Altu-Bitu-2/Notice/blob/main/06%EC%9B%94%2007%EC%9D%BC%20-%20%EC%9C%84%EC%83%81%20%EC%A0%95%EB%A0%AC/%EA%B3%BC%EC%A0%9C/23632.py)|&nbsp;위상 정렬|
 
 
 
@@ -101,4 +101,4 @@
 
 ### 코드리뷰 가이드
 
-🔗 [링크]()
+🔗 [링크](https://diamond-drum-0d1.notion.site/06-07-10e3b75046a747fc91b6248e02c126a1)
