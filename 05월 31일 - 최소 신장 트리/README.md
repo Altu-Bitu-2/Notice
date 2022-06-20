@@ -22,8 +22,8 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://programmers.co.kr/learn/courses/30/lessons/60061" target="_blank">2020 KAKAO BLIND RECRUITMENT</a>|<a href="https://programmers.co.kr/learn/courses/30/lessons/60061" target="_blank">기둥과 보 설치</a>|Level 3|[C++]()<br/>[Python3]()||
-|<a href="https://www.acmicpc.net/problem/1244" target="_blank">1244</a>|<a href="https://www.acmicpc.net/problem/1244" target="_blank">스위치 켜고 끄기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[C++]()<br/>[Python3]()||
+|<a href="https://programmers.co.kr/learn/courses/30/lessons/60061" target="_blank">2020 KAKAO BLIND RECRUITMENT</a>|<a href="https://programmers.co.kr/learn/courses/30/lessons/60061" target="_blank">기둥과 보 설치</a>|Level 3|[C++](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2031%EC%9D%BC%20-%20%EC%B5%9C%EC%86%8C%20%EC%8B%A0%EC%9E%A5%20%ED%8A%B8%EB%A6%AC/%EA%B3%BC%EC%A0%9C/p_60061.cpp)<br/>[Python3](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2031%EC%9D%BC%20-%20%EC%B5%9C%EC%86%8C%20%EC%8B%A0%EC%9E%A5%20%ED%8A%B8%EB%A6%AC/%EA%B3%BC%EC%A0%9C/p_60061.py)|구현, 시뮬레이션|
+|<a href="https://www.acmicpc.net/problem/1244" target="_blank">1244</a>|<a href="https://www.acmicpc.net/problem/1244" target="_blank">스위치 켜고 끄기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[C++](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2031%EC%9D%BC%20-%20%EC%B5%9C%EC%86%8C%20%EC%8B%A0%EC%9E%A5%20%ED%8A%B8%EB%A6%AC/%EA%B3%BC%EC%A0%9C/1244.cpp)<br/>[Python3](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2031%EC%9D%BC%20-%20%EC%B5%9C%EC%86%8C%20%EC%8B%A0%EC%9E%A5%20%ED%8A%B8%EB%A6%AC/%EA%B3%BC%EC%A0%9C/1244.py)|구현, 시뮬레이션|
 
 
 ---
@@ -32,11 +32,11 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/10423" target="_blank">10423</a>|<a href="https://www.acmicpc.net/problem/10423" target="_blank">전기가 부족해</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/>|[C++]()<br/>[Python3]()||
-|<a href="https://www.acmicpc.net/problem/1774" target="_blank">1774</a>|<a href="https://www.acmicpc.net/problem/1774" target="_blank">우주신과의 교감</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|[C++]()<br/>[Python3]()||
-|<a href="https://www.acmicpc.net/problem/1647" target="_blank">1647</a>|<a href="https://www.acmicpc.net/problem/1647" target="_blank">도시 분할 계획</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[C++]()<br/>[Python3]()||
-|<a href="https://www.acmicpc.net/problem/16202" target="_blank">16202</a>|<a href="https://www.acmicpc.net/problem/16202" target="_blank">MST 게임</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[C++]()<br/>[Python3]()||
-|<a href="https://www.acmicpc.net/problem/1368" target="_blank">1368</a>|<a href="https://www.acmicpc.net/problem/1368" target="_blank">물대기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/>|[C++]()<br/>[Python3]()||
+|<a href="https://www.acmicpc.net/problem/10423" target="_blank">10423</a>|<a href="https://www.acmicpc.net/problem/10423" target="_blank">전기가 부족해</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/>|[C++](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2031%EC%9D%BC%20-%20%EC%B5%9C%EC%86%8C%20%EC%8B%A0%EC%9E%A5%20%ED%8A%B8%EB%A6%AC/%EA%B3%BC%EC%A0%9C/10423.cpp)<br/>[Python3](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2031%EC%9D%BC%20-%20%EC%B5%9C%EC%86%8C%20%EC%8B%A0%EC%9E%A5%20%ED%8A%B8%EB%A6%AC/%EA%B3%BC%EC%A0%9C/10423.py)|최소 신장 트리, 크루스칼|
+|<a href="https://www.acmicpc.net/problem/1774" target="_blank">1774</a>|<a href="https://www.acmicpc.net/problem/1774" target="_blank">우주신과의 교감</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|[C++](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2031%EC%9D%BC%20-%20%EC%B5%9C%EC%86%8C%20%EC%8B%A0%EC%9E%A5%20%ED%8A%B8%EB%A6%AC/%EA%B3%BC%EC%A0%9C/1774.cpp)<br/>[Python3](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2031%EC%9D%BC%20-%20%EC%B5%9C%EC%86%8C%20%EC%8B%A0%EC%9E%A5%20%ED%8A%B8%EB%A6%AC/%EA%B3%BC%EC%A0%9C/1774.py)|최소 신장 트리, 크루스칼|
+|<a href="https://www.acmicpc.net/problem/1647" target="_blank">1647</a>|<a href="https://www.acmicpc.net/problem/1647" target="_blank">도시 분할 계획</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[C++](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2031%EC%9D%BC%20-%20%EC%B5%9C%EC%86%8C%20%EC%8B%A0%EC%9E%A5%20%ED%8A%B8%EB%A6%AC/%EA%B3%BC%EC%A0%9C/1647.cpp)<br/>[Python3](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2031%EC%9D%BC%20-%20%EC%B5%9C%EC%86%8C%20%EC%8B%A0%EC%9E%A5%20%ED%8A%B8%EB%A6%AC/%EA%B3%BC%EC%A0%9C/1647.py)|최소 신장 트리, 크루스칼|
+|<a href="https://www.acmicpc.net/problem/16202" target="_blank">16202</a>|<a href="https://www.acmicpc.net/problem/16202" target="_blank">MST 게임</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[C++](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2031%EC%9D%BC%20-%20%EC%B5%9C%EC%86%8C%20%EC%8B%A0%EC%9E%A5%20%ED%8A%B8%EB%A6%AC/%EA%B3%BC%EC%A0%9C/16202.cpp)<br/>[Python3](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2031%EC%9D%BC%20-%20%EC%B5%9C%EC%86%8C%20%EC%8B%A0%EC%9E%A5%20%ED%8A%B8%EB%A6%AC/%EA%B3%BC%EC%A0%9C/16202.py)|최소 신장 트리, 크루스칼|
+|<a href="https://www.acmicpc.net/problem/1368" target="_blank">1368</a>|<a href="https://www.acmicpc.net/problem/1368" target="_blank">물대기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/>|[C++](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2031%EC%9D%BC%20-%20%EC%B5%9C%EC%86%8C%20%EC%8B%A0%EC%9E%A5%20%ED%8A%B8%EB%A6%AC/%EA%B3%BC%EC%A0%9C/1368.cpp)<br/>[Python3](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2031%EC%9D%BC%20-%20%EC%B5%9C%EC%86%8C%20%EC%8B%A0%EC%9E%A5%20%ED%8A%B8%EB%A6%AC/%EA%B3%BC%EC%A0%9C/1368.py)|최소 신장 트리, 프림|
 
 
 
@@ -98,4 +98,4 @@
 
 ### 코드리뷰 가이드
 
-🔗 [링크]()
+🔗 [링크](https://www.notion.so/05-31-ae1e6f91a92748c199feeb8168008906)
